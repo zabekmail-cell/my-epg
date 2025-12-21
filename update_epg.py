@@ -3,7 +3,7 @@ import re
 
 urls = [
     "https://epg.pw/api/epg.xml?channel_id=464857",
-    "https://epg.pw/api/epg.xml?channel_id=465087"
+    "https://epg.pw/api/epg.xml?channel_id=465087",
     "https://epg.pw/api/epg.xml?channel_id=464902",
     "https://epg.pw/api/epg.xml?channel_id=464849",
     "https://epg.pw/api/epg.xml?channel_id=465150",
