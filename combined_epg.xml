@@ -250,6 +250,481 @@
     <date>2025-12-23</date>
   </programme>
 
+  <channel id="465087">
+    <display-name lang="US">MSNBC HD</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="465087" start="20251221000000 +0000" stop="20251221010000 +0000">
+    <title lang="zh">Live: The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221010000 +0000" stop="20251221020000 +0000">
+    <title lang="zh">Live: The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221020000 +0000" stop="20251221040000 +0000">
+    <title lang="zh">The Look: A Conversation With Michelle Obama</title>
+    <desc>Jonathan Capehart interviews former First Lady Michelle Obama in Los Angeles about her new book, "The Look," and its deeper message for society.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221040000 +0000" stop="20251221050000 +0000">
+    <title lang="zh">The 11th Hour With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting, uncovering stories that affect everyone.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221050000 +0000" stop="20251221060000 +0000">
+    <title lang="zh">The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221060000 +0000" stop="20251221070000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When a California nursing student disappears during her hospital shift, her family works to locate her.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221070000 +0000" stop="20251221080000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When a California nursing student disappears during her hospital shift, her family works to locate her.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221080000 +0000" stop="20251221090000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>The discovery of a 19-year-old's car abandoned on a bridge in New Jersey turns into a missing person case that evolves into a homicide investigation; police discover a plot involving money, close friends and a betrayal.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221090000 +0000" stop="20251221100000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>The discovery of a 19-year-old's car abandoned on a bridge in New Jersey turns into a missing person case that evolves into a months long homicide investigation; police discover a plot involving money, close friends and a fatal betrayal.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221100000 +0000" stop="20251221110000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A recent law school graduate in Georgia who has a promising future disappears without a trace.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221110000 +0000" stop="20251221120000 +0000">
+    <title lang="zh">Morning Joe: Weekend</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221120000 +0000" stop="20251221130000 +0000">
+    <title lang="zh">Live: The Weekend</title>
+    <desc>Jonathan Capehart, Eugene Daniels and Jackie Alemany set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221130000 +0000" stop="20251221140000 +0000">
+    <title lang="zh">Live: The Weekend</title>
+    <desc>Jonathan Capehart, Eugene Daniels and Jackie Alemany set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221140000 +0000" stop="20251221150000 +0000">
+    <title lang="zh">Live: The Weekend</title>
+    <desc>Jonathan Capehart, Eugene Daniels and Jackie Alemany set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221150000 +0000" stop="20251221160000 +0000">
+    <title lang="zh">Live: Velshi</title>
+    <desc>Current events and sharp analysis of top trending topics.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221160000 +0000" stop="20251221170000 +0000">
+    <title lang="zh">Live: Velshi</title>
+    <desc>Current events and sharp analysis of top trending topics.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221170000 +0000" stop="20251221180000 +0000">
+    <title lang="zh">Live: Velshi</title>
+    <desc>Current events and sharp analysis of top trending topics.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221180000 +0000" stop="20251221190000 +0000">
+    <title lang="zh">Live: Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221190000 +0000" stop="20251221200000 +0000">
+    <title lang="zh">Live: Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221200000 +0000" stop="20251221210000 +0000">
+    <title lang="zh">Live: Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221210000 +0000" stop="20251221220000 +0000">
+    <title lang="zh">Deadline: White House: Weekend</title>
+    <desc>Highlights from "Deadline: White House.".</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221220000 +0000" stop="20251221230000 +0000">
+    <title lang="zh">Live: PoliticsNation</title>
+    <desc>Sharpton approaches news stories with an eye toward equality and justice and brings to light the news and updates on under-reported issues that require a national platform.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251221230000 +0000" stop="20251222000000 +0000">
+    <title lang="zh">Live: The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="465087" start="20251222000000 +0000" stop="20251222010000 +0000">
+    <title lang="zh">Live: The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222010000 +0000" stop="20251222020000 +0000">
+    <title lang="zh">Live: The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222020000 +0000" stop="20251222030000 +0000">
+    <title lang="zh">The Briefing with Jen Psaki: Weekend</title>
+    <desc>Jen Psaki tackles the biggest issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222030000 +0000" stop="20251222040000 +0000">
+    <title lang="zh">The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222040000 +0000" stop="20251222050000 +0000">
+    <title lang="zh">The Weekend: Primetime</title>
+    <desc>Ayman Mohyeldin, Catherine Rampell, Antonia Hylton and Elise Jordan set the agenda for Saturday, Sunday, and the week ahead; fresh analysis of the week's biggest events.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222050000 +0000" stop="20251222060000 +0000">
+    <title lang="zh">Deadline: White House: Weekend</title>
+    <desc>Highlights from "Deadline: White House.".</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222060000 +0000" stop="20251222070000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A soon-to-be bride is caught in the middle of a twisted murder plot that has detectives questioning if she played a role in it.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222070000 +0000" stop="20251222080000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A couple goes on a scuba-diving vacation in the British Virgin Islands; one of them surfaces but the other does not.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222080000 +0000" stop="20251222090000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>When a young woman is found dead in a field on the outskirts of Green Bay, Wis., a fitness tracker helps detectives solve the mystery.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222090000 +0000" stop="20251222100000 +0000">
+    <title lang="zh">Deadline: White House: Weekend</title>
+    <desc>Highlights from "Deadline: White House.".</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222100000 +0000" stop="20251222110000 +0000">
+    <title lang="zh">Live: Way Too Early With Ali Vitali</title>
+    <desc>Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222110000 +0000" stop="20251222150000 +0000">
+    <title lang="zh">Live: Morning Joe</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222150000 +0000" stop="20251222160000 +0000">
+    <title lang="zh">Live: Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222160000 +0000" stop="20251222170000 +0000">
+    <title lang="zh">Live: Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222170000 +0000" stop="20251222180000 +0000">
+    <title lang="zh">Live: Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222180000 +0000" stop="20251222190000 +0000">
+    <title lang="zh">Live: Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222190000 +0000" stop="20251222200000 +0000">
+    <title lang="zh">Live: Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222200000 +0000" stop="20251222210000 +0000">
+    <title lang="zh">Live: Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; discussions with newsmakers, journalists and politicians.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222210000 +0000" stop="20251222230000 +0000">
+    <title lang="zh">Live: Deadline: White House</title>
+    <desc>In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251222230000 +0000" stop="20251223000000 +0000">
+    <title lang="zh">Live: The Beat With Ari Melber</title>
+    <desc>Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="465087" start="20251223000000 +0000" stop="20251224000000 +0000">
+    <title lang="zh">Live: The Weeknight</title>
+    <desc>Alicia Menendez, Michael Steele, and Symone Sanders-Townsend's one-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <date>2025-12-23</date>
+  </programme>
+
+  <channel id="464902">
+    <display-name lang="US">ABC National Feed</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="464902" start="20251221000000 +0000" stop="20251221010000 +0000">
+    <title lang="zh">Live: 20/20</title>
+    <desc>Award-winning program anchored by David Muir, featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221010000 +0000" stop="20251221030000 +0000">
+    <title lang="zh">Kevin Costner Presents: The First Christmas</title>
+    <desc>Kevin Costner hosts the special exploring the extraordinary journey of Mary and Joseph as they navigate the hardships, trials and triumphs surrounding Jesus Christ's birth, offering an inspiring way to experience the true meaning of Christmas.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221030000 +0000" stop="20251221033000 +0000">
+    <title lang="zh">Shifting Gears</title>
+    <desc>This holiday season, the Parkers discover that romance isn't always a smooth ride as Matt and Eve are on thin ice; Gabe enlists Riley to help Amelie impress his mom; Carter seeks help with his promposal.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221033000 +0000" stop="20251221040000 +0000">
+    <title lang="zh">Shifting Gears</title>
+    <desc>When a raccoon appears in the Parkers' yard, Matt sees a chance to teach Carter a lesson about facing his fears; Riley struggles to navigate the world of dating apps and goes on her first post-divorce date.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221040000 +0000" stop="20251221050000 +0000">
+    <title lang="zh">20/20</title>
+    <desc>Award-winning program anchored by David Muir, featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221050000 +0000" stop="20251221060000 +0000">
+    <title lang="zh">Live: What Would You Do?</title>
+    <desc>Using hidden cameras, host John Quiñones observes and comments on how ordinary people behave when they are confronted with dilemmas that require them either to take action or to walk by and mind their own business. Various scenarios are created that force people to make split-second -- and often surprising -- decisions, and variations of the situation (such as changing the genders, races or clothi</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221060000 +0000" stop="20251221080000 +0000">
+    <title lang="zh">Live: 20/20</title>
+    <desc>Award-winning program anchored by David Muir, featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221080000 +0000" stop="20251221090000 +0000">
+    <title lang="zh">What Would You Do?</title>
+    <desc>Using hidden cameras, host John Quiñones observes and comments on how ordinary people behave when they are confronted with dilemmas that require them either to take action or to walk by and mind their own business. Various scenarios are created that force people to make split-second -- and often surprising -- decisions, and variations of the situation (such as changing the genders, races or clothi</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221090000 +0000" stop="20251221110000 +0000">
+    <title lang="zh">Live: 20/20</title>
+    <desc>Award-winning program anchored by David Muir, featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221110000 +0000" stop="20251221113000 +0000">
+    <title lang="zh">ABC News Live Weekend</title>
+    <desc>Breaking news coverage and live video.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221113000 +0000" stop="20251221120000 +0000">
+    <title lang="zh">GMA Life</title>
+    <desc>A weekly roundup of the best lifestyle content from "Good Morning America"; includes exclusive celebrity content, savings from "Deals &amp; Steals," and interviews with authors behind some of the most anticipated books.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221120000 +0000" stop="20251221130000 +0000">
+    <title lang="zh">Good Morning America</title>
+    <desc>Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221130000 +0000" stop="20251221140000 +0000">
+    <title lang="zh">Good Morning America</title>
+    <desc>Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221140000 +0000" stop="20251221150000 +0000">
+    <title lang="zh">This Week With George Stephanopoulos</title>
+    <desc>Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221150000 +0000" stop="20251221160000 +0000">
+    <title lang="zh">This Week With George Stephanopoulos</title>
+    <desc>Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221160000 +0000" stop="20251221163000 +0000">
+    <title lang="zh">ABC News Live Weekends</title>
+    <desc>Breaking news coverage and live video.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221163000 +0000" stop="20251221170000 +0000">
+    <title lang="zh">GMA Life</title>
+    <desc>A weekly roundup of the best lifestyle content from "Good Morning America"; includes exclusive celebrity content, savings from "Deals &amp; Steals," and interviews with authors behind some of the most anticipated books.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221170000 +0000" stop="20251221180000 +0000">
+    <title lang="zh">Live: This Week With George Stephanopoulos</title>
+    <desc>Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221180000 +0000" stop="20251221183000 +0000">
+    <title lang="zh">ABC News Live Weekend: Sunday</title>
+    <desc>Breaking news coverage and live video.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221183000 +0000" stop="20251221190000 +0000">
+    <title lang="zh">GMA Life</title>
+    <desc>A weekly roundup of the best lifestyle content from "Good Morning America"; includes exclusive celebrity content, savings from "Deals &amp; Steals," and interviews with authors behind some of the most anticipated books.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221190000 +0000" stop="20251221200000 +0000">
+    <title lang="zh">This Week With George Stephanopoulos</title>
+    <desc>Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221200000 +0000" stop="20251221203000 +0000">
+    <title lang="zh">Live: Women's College Volleyball Pregame Show</title>
+    <desc>Pregame coverage for women's college volleyball.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221203000 +0000" stop="20251221223000 +0000">
+    <title lang="zh">Live: Women's College Volleyball</title>
+    <desc>Semifinal winners battle for the 2025 NCAA Women's Volleyball National Championship. From T-Mobile Center in Kansas City, Mo.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221223000 +0000" stop="20251221230000 +0000">
+    <title lang="zh">The Playlist</title>
+    <desc>ABC News Live sits down one-on-one with some of music's most influential artists to hear the story behind the sound.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221230000 +0000" stop="20251221233000 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>Delivering the news that matters most.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251221233000 +0000" stop="20251222000000 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>Delivering the news that matters most.</desc>
+    <date>2025-12-21</date>
+  </programme>
+  <programme channel="464902" start="20251222000000 +0000" stop="20251222040000 +0000">
+    <title lang="zh">The Sound of Music</title>
+    <desc>A tuneful, heartwarming story, it is based on the real life story of the Von Trapp Family singers, one of the world's best-known concert groups in the era immediately preceding World War II. Julie Andrews plays the role of Maria, the tomboyish postulant at an Austrian abbey who becomes a governess in the home of a widowed naval captain with seven children, and brings a new love of life and music i</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222040000 +0000" stop="20251222043000 +0000">
+    <title lang="zh">Live: ABC World News Tonight With David Muir</title>
+    <desc>Delivering the news that matters most.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222043000 +0000" stop="20251222050000 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>Delivering the news that matters most.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222050000 +0000" stop="20251222060000 +0000">
+    <title lang="zh">20/20</title>
+    <desc>Award-winning program anchored by David Muir, featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222060000 +0000" stop="20251222070000 +0000">
+    <title lang="zh">ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222070000 +0000" stop="20251222090000 +0000">
+    <title lang="zh">ABC World News Now</title>
+    <desc>Up-to-date information on current events and news from around the world, airing in the overnight hours. Its tone is somewhat lighter than a regular news broadcast, though reports are filed from the usual ABC News correspondents. Weather and pop culture stories round out the reports.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222090000 +0000" stop="20251222093000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222093000 +0000" stop="20251222100000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222100000 +0000" stop="20251222103000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222103000 +0000" stop="20251222110000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222110000 +0000" stop="20251222113000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222113000 +0000" stop="20251222120000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222120000 +0000" stop="20251222140000 +0000">
+    <title lang="zh">Good Morning America</title>
+    <desc>S'ABLE Labs co-founder Sabrina Dhowre Elba; chef Brooke Williamson; podcast hosts Charlie Gibson and Kate Gibson; Shop GMA with Lori Bergamotto.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222140000 +0000" stop="20251222153000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222153000 +0000" stop="20251222160000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222160000 +0000" stop="20251222170000 +0000">
+    <title lang="zh">The View</title>
+    <desc>Actress Jamie Lee Curtis.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222170000 +0000" stop="20251222180000 +0000">
+    <title lang="zh">GMA3</title>
+    <desc>Parenting expert Bethany Braun-Silva; chef Brooke Williamson shares appetizers for the holidays; Shop GMA with Lori Bergamotto.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222180000 +0000" stop="20251222190000 +0000">
+    <title lang="zh">GMA3</title>
+    <desc>Parenting expert Bethany Braun-Silva; chef Brooke Williamson shares appetizers for the holidays; Shop GMA with Lori Bergamotto.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222190000 +0000" stop="20251222200000 +0000">
+    <title lang="zh">General Hospital</title>
+    <desc>The ongoing lives of the diverse and evolving citizens of the fictional town of Port Charles in upstate New York.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222200000 +0000" stop="20251222210000 +0000">
+    <title lang="zh">General Hospital</title>
+    <desc>The ongoing lives of the diverse and evolving citizens of the fictional town of Port Charles in upstate New York.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222210000 +0000" stop="20251222233000 +0000">
+    <title lang="zh">ABC News Live Reports</title>
+    <desc>24/7 coverage of breaking news and live events.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251222233000 +0000" stop="20251223000000 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>Delivering the news that matters most.</desc>
+    <date>2025-12-22</date>
+  </programme>
+  <programme channel="464902" start="20251223000000 +0000" stop="20251224000000 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>Delivering the news that matters most.</desc>
+    <date>2025-12-23</date>
+  </programme>
+
   <channel id="464849">
     <display-name lang="US">ABC National Feed Pacific</display-name>
     <icon src="" />
