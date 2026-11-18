@@ -7319,8 +7319,23 @@
     <desc />
     <date>2026-11-18</date>
   </programme>
-  <programme channel="5926" start="20261118052500 +0000" stop="20261118070000 +0000">
+  <programme channel="5926" start="20261118052500 +0000" stop="20261118054800 +0000">
     <title lang="zh">т/с Морские дьяволы. Полярный конвой (Случай в квадрате 37-79.: ч. 1)</title>
+    <desc />
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="5926" start="20261118054800 +0000" stop="20261118061100 +0000">
+    <title lang="zh">т/с Морские дьяволы. Полярный конвой (Случай в квадрате 37-79.: ч. 2)</title>
+    <desc />
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="5926" start="20261118061100 +0000" stop="20261118063400 +0000">
+    <title lang="zh">т/с Морские дьяволы. Полярный конвой (Полярные птицы.: ч. 1)</title>
+    <desc />
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="5926" start="20261118063400 +0000" stop="20261118070000 +0000">
+    <title lang="zh">т/с Морские дьяволы. Полярный конвой (Полярные птицы.: ч. 2)</title>
     <desc />
     <date>2026-11-18</date>
   </programme>
@@ -8562,6 +8577,196 @@
   <programme channel="452290" start="20261120000000 +0000" stop="20261121000000 +0000">
     <title lang="zh">Piłka nożna: Liga Konferencji</title>
     <desc />
+    <date>2026-11-20</date>
+  </programme>
+
+  <channel id="464889">
+    <display-name lang="US">MS NOW HD</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="464889" start="20261118000000 +0000" stop="20261118010000 +0000">
+    <title lang="zh">Live: The Weeknight</title>
+    <desc>Luke Russert, Michael Steele and Symone Sanders Townsend's one-on-one conversations with politicians and newsmakers and the breaking issues of the day.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118010000 +0000" stop="20261118020000 +0000">
+    <title lang="zh">Live: All in With Chris Hayes</title>
+    <desc>Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118020000 +0000" stop="20261118030000 +0000">
+    <title lang="zh">Live: The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118030000 +0000" stop="20261118040000 +0000">
+    <title lang="zh">Live: The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118040000 +0000" stop="20261118050000 +0000">
+    <title lang="zh">Live: The 11th Hour With Ali Velshi</title>
+    <desc>Ali Velshi delivers sharp, data-driven analysis of the day's stories in economics, politics, democracy, and foreign affairs; from MS NOW's Studio C in the heart of NYC, Velshi convenes a panel of guests to help viewers navigate the news.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118050000 +0000" stop="20261118060000 +0000">
+    <title lang="zh">The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118060000 +0000" stop="20261118070000 +0000">
+    <title lang="zh">The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118070000 +0000" stop="20261118080000 +0000">
+    <title lang="zh">The 11th Hour With Ali Velshi</title>
+    <desc>Ali Velshi delivers sharp, data-driven analysis of the day's stories in economics, politics, democracy, and foreign affairs; from MS NOW's Studio C in the heart of NYC, Velshi convenes a panel of guests to help viewers navigate the news.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118080000 +0000" stop="20261118090000 +0000">
+    <title lang="zh">All in With Chris Hayes</title>
+    <desc>Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118090000 +0000" stop="20261118100000 +0000">
+    <title lang="zh">The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118100000 +0000" stop="20261118110000 +0000">
+    <title lang="zh">Live: Way Too Early With Ali Vitali</title>
+    <desc>Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118110000 +0000" stop="20261118140000 +0000">
+    <title lang="zh">Live: Morning Joe</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118140000 +0000" stop="20261118160000 +0000">
+    <title lang="zh">Live: Money, Power, Politics With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting to mornings, helping you understand what's happening today and why it matters; make sense of it all, together.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118160000 +0000" stop="20261118170000 +0000">
+    <title lang="zh">Live: State of Play with Peter Alexander</title>
+    <desc>Peter Alexander holds those in power accountable, leaning on his years of reporting from the heart of DC to relentlessly push for the answers you need. Because what happens in Washington impacts what happens in your home.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118170000 +0000" stop="20261118190000 +0000">
+    <title lang="zh">Live: On the Line With Alicia Menendez</title>
+    <desc>Alicia Menendez leads insightful conversations that bring us to a deeper understanding of the day's headlines, focusing on what's at stake for our country and our communities.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118190000 +0000" stop="20261118210000 +0000">
+    <title lang="zh">Live: The Moment With Katy Tur</title>
+    <desc>Katy Tur cuts through the noise with sharp political analysis, breaking news, and impactful interviews on the stories driving the national conversation.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118210000 +0000" stop="20261118230000 +0000">
+    <title lang="zh">Live: Deadline: White House</title>
+    <desc>In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261118230000 +0000" stop="20261119000000 +0000">
+    <title lang="zh">Live: The Beat With Ari Melber</title>
+    <desc>Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
+    <date>2026-11-18</date>
+  </programme>
+  <programme channel="464889" start="20261119000000 +0000" stop="20261119010000 +0000">
+    <title lang="zh">Live: The Weeknight</title>
+    <desc>Luke Russert, Michael Steele and Symone Sanders Townsend's one-on-one conversations with politicians and newsmakers and the breaking issues of the day.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119010000 +0000" stop="20261119020000 +0000">
+    <title lang="zh">Live: All in With Chris Hayes</title>
+    <desc>Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119020000 +0000" stop="20261119030000 +0000">
+    <title lang="zh">Live: The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119030000 +0000" stop="20261119040000 +0000">
+    <title lang="zh">Live: The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119040000 +0000" stop="20261119050000 +0000">
+    <title lang="zh">Live: The 11th Hour With Ali Velshi</title>
+    <desc>Ali Velshi delivers sharp, data-driven analysis of the day's stories in economics, politics, democracy, and foreign affairs; from MS NOW's Studio C in the heart of NYC, Velshi convenes a panel of guests to help viewers navigate the news.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119050000 +0000" stop="20261119060000 +0000">
+    <title lang="zh">The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119060000 +0000" stop="20261119070000 +0000">
+    <title lang="zh">The Last Word With Lawrence O'Donnell</title>
+    <desc>In his signature style, Lawrence O'Donnell goes into depth on the latest news developments and offers his take on the political stories driving the national conversation.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119070000 +0000" stop="20261119080000 +0000">
+    <title lang="zh">The 11th Hour With Ali Velshi</title>
+    <desc>Ali Velshi delivers sharp, data-driven analysis of the day's stories in economics, politics, democracy, and foreign affairs; from MS NOW's Studio C in the heart of NYC, Velshi convenes a panel of guests to help viewers navigate the news.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119080000 +0000" stop="20261119090000 +0000">
+    <title lang="zh">All in With Chris Hayes</title>
+    <desc>Chris Hayes reports on some of the biggest news and political stories of the day with a commitment to in-depth reporting that seeks to hold the nation's leaders accountable for their actions.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119090000 +0000" stop="20261119100000 +0000">
+    <title lang="zh">The Briefing With Jen Psaki</title>
+    <desc>Jen Psaki tackles the issues of the week and features one-on-one interviews with newsmakers.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119100000 +0000" stop="20261119110000 +0000">
+    <title lang="zh">Live: Way Too Early With Ali Vitali</title>
+    <desc>Inside-the-beltway political news and critical stories shaping the national conversation.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119110000 +0000" stop="20261119140000 +0000">
+    <title lang="zh">Live: Morning Joe</title>
+    <desc>Hosts Joe Scarborough, Mika Brzezinski and Willie Geist present in-depth and informed discussions that help drive the day's current political conversation.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119140000 +0000" stop="20261119160000 +0000">
+    <title lang="zh">Live: Money, Power, Politics With Stephanie Ruhle</title>
+    <desc>Host Stephanie Ruhle brings her business acumen, hard-hitting interview style and original reporting to mornings, helping you understand what's happening today and why it matters. Make sense of it all, together.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119160000 +0000" stop="20261119170000 +0000">
+    <title lang="zh">Live: State of Play with Peter Alexander</title>
+    <desc>Peter Alexander holds those in power accountable, leaning on his years of reporting from the heart of DC to relentlessly push for the answers you need. Because what happens in Washington impacts what happens in your home.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119170000 +0000" stop="20261119190000 +0000">
+    <title lang="zh">Live: On the Line With Alicia Menendez</title>
+    <desc>Alicia Menendez leads insightful conversations that bring us to a deeper understanding of the day's headlines, focusing on what's at stake for our country and our communities.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119190000 +0000" stop="20261119210000 +0000">
+    <title lang="zh">Live: The Moment With Katy Tur</title>
+    <desc>Katy Tur cuts through the noise with sharp political analysis, breaking news, and impactful interviews on the stories driving the national conversation.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119210000 +0000" stop="20261119230000 +0000">
+    <title lang="zh">Live: Deadline: White House</title>
+    <desc>In-depth reporting on political developments and dynamic discussions with leading newsmakers, with insights into complex issues.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261119230000 +0000" stop="20261120000000 +0000">
+    <title lang="zh">Live: The Beat With Ari Melber</title>
+    <desc>Attorney and journalist Ari Melber dives into political and news stories with interviews and original reporting from around the nation.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464889" start="20261120000000 +0000" stop="20261121000000 +0000">
+    <title lang="zh">Live: The Weeknight</title>
+    <desc>Luke Russert, Michael Steele and Symone Sanders Townsend's one-on-one conversations with politicians and newsmakers and the breaking issues of the day.</desc>
     <date>2026-11-20</date>
   </programme>
 </tv>
