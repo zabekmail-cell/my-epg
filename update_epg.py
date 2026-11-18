@@ -44,7 +44,8 @@ urls = [
     "https://epg.pw/api/epg.xml?channel_id=408447",
     "https://epg.pw/api/epg.xml?channel_id=449590",
     "https://epg.pw/api/epg.xml?channel_id=449589",
-    "https://epg.pw/api/epg.xml?channel_id=452290"
+    "https://epg.pw/api/epg.xml?channel_id=452290",
+    "https://epg.pw/api/epg.xml?channel_id=464889
 ]
 
 # Nagłówek i otwarcie tagu tv
