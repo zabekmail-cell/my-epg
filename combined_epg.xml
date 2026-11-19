@@ -4,126 +4,6 @@
     <display-name lang="US">CNN HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="464857" start="20261118000000 +0000" stop="20261118010000 +0000">
-    <title lang="zh">Live: Erin Burnett OutFront</title>
-    <desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative with compelling interviews, lively debates and analysis of situations.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118010000 +0000" stop="20261118020000 +0000">
-    <title lang="zh">Live: Anderson Cooper 360</title>
-    <desc>Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118020000 +0000" stop="20261118030000 +0000">
-    <title lang="zh">Live: The Source With Kaitlan Collins</title>
-    <desc>Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118030000 +0000" stop="20261118040000 +0000">
-    <title lang="zh">Live: CNN NewsNight With Abby Phillip</title>
-    <desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118040000 +0000" stop="20261118050000 +0000">
-    <title lang="zh">Laura Coates Live</title>
-    <desc>Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118050000 +0000" stop="20261118060000 +0000">
-    <title lang="zh">Live: The Story Is With Elex Michaelson</title>
-    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118060000 +0000" stop="20261118070000 +0000">
-    <title lang="zh">Live: The Story Is With Elex Michaelson</title>
-    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118070000 +0000" stop="20261118080000 +0000">
-    <title lang="zh">Anderson Cooper 360</title>
-    <desc>Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118080000 +0000" stop="20261118090000 +0000">
-    <title lang="zh">CNN NewsNight With Abby Phillip</title>
-    <desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118090000 +0000" stop="20261118100000 +0000">
-    <title lang="zh">Anderson Cooper 360</title>
-    <desc>Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118100000 +0000" stop="20261118110000 +0000">
-    <title lang="zh">Live: CNN Headline Express</title>
-    <desc>Brad Smith brings you the biggest headlines and most buzzworthy stories.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118110000 +0000" stop="20261118120000 +0000">
-    <title lang="zh">Live: CNN This Morning</title>
-    <desc>Stories from across the world and conversations with Audie Cornish.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118120000 +0000" stop="20261118130000 +0000">
-    <title lang="zh">Live: CNN News Central</title>
-    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118130000 +0000" stop="20261118140000 +0000">
-    <title lang="zh">Live: CNN News Central</title>
-    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118140000 +0000" stop="20261118150000 +0000">
-    <title lang="zh">Live: CNN News Central</title>
-    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118150000 +0000" stop="20261118160000 +0000">
-    <title lang="zh">Live: The Situation Room</title>
-    <desc>Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118160000 +0000" stop="20261118170000 +0000">
-    <title lang="zh">Live: The Situation Room</title>
-    <desc>Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118170000 +0000" stop="20261118180000 +0000">
-    <title lang="zh">Live: Inside Politics With Dana Bash</title>
-    <desc>Top political stories researched by top reporters.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118180000 +0000" stop="20261118190000 +0000">
-    <title lang="zh">Live: CNN News Central</title>
-    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118190000 +0000" stop="20261118200000 +0000">
-    <title lang="zh">Live: CNN News Central</title>
-    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118200000 +0000" stop="20261118210000 +0000">
-    <title lang="zh">Live: CNN News Central</title>
-    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118210000 +0000" stop="20261118220000 +0000">
-    <title lang="zh">Live: The Arena With Kasie Hunt</title>
-    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118220000 +0000" stop="20261118230000 +0000">
-    <title lang="zh">Live: The Lead With Jake Tapper</title>
-    <desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money and sports to popular culture.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464857" start="20261118230000 +0000" stop="20261119000000 +0000">
-    <title lang="zh">Live: The Lead With Jake Tapper</title>
-    <desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money and sports to popular culture.</desc>
-    <date>2026-11-18</date>
-  </programme>
   <programme channel="464857" start="20261119000000 +0000" stop="20261119010000 +0000">
     <title lang="zh">Live: Erin Burnett OutFront</title>
     <desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative with compelling interviews, lively debates and analysis of situations.</desc>
@@ -244,10 +124,130 @@
     <desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money and sports to popular culture.</desc>
     <date>2026-11-19</date>
   </programme>
-  <programme channel="464857" start="20261120000000 +0000" stop="20261121000000 +0000">
+  <programme channel="464857" start="20261120000000 +0000" stop="20261120010000 +0000">
     <title lang="zh">Live: Erin Burnett OutFront</title>
     <desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative with compelling interviews, lively debates and analysis of situations.</desc>
     <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120010000 +0000" stop="20261120020000 +0000">
+    <title lang="zh">Live: Anderson Cooper 360</title>
+    <desc>Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120020000 +0000" stop="20261120030000 +0000">
+    <title lang="zh">Live: The Source With Kaitlan Collins</title>
+    <desc>Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120030000 +0000" stop="20261120040000 +0000">
+    <title lang="zh">Live: CNN NewsNight With Abby Phillip</title>
+    <desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120040000 +0000" stop="20261120050000 +0000">
+    <title lang="zh">Laura Coates Live</title>
+    <desc>Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120050000 +0000" stop="20261120060000 +0000">
+    <title lang="zh">Live: The Story Is With Elex Michaelson</title>
+    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120060000 +0000" stop="20261120070000 +0000">
+    <title lang="zh">Live: The Story Is With Elex Michaelson</title>
+    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120070000 +0000" stop="20261120080000 +0000">
+    <title lang="zh">Anderson Cooper 360</title>
+    <desc>Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120080000 +0000" stop="20261120090000 +0000">
+    <title lang="zh">CNN NewsNight With Abby Phillip</title>
+    <desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120090000 +0000" stop="20261120100000 +0000">
+    <title lang="zh">Anderson Cooper 360</title>
+    <desc>Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120100000 +0000" stop="20261120110000 +0000">
+    <title lang="zh">Live: CNN Headline Express</title>
+    <desc>Brad Smith brings you the biggest headlines and most buzzworthy stories.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120110000 +0000" stop="20261120120000 +0000">
+    <title lang="zh">Live: CNN This Morning</title>
+    <desc>Stories from across the world and conversations with Audie Cornish.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120120000 +0000" stop="20261120130000 +0000">
+    <title lang="zh">Live: CNN News Central</title>
+    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120130000 +0000" stop="20261120140000 +0000">
+    <title lang="zh">Live: CNN News Central</title>
+    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120140000 +0000" stop="20261120150000 +0000">
+    <title lang="zh">Live: CNN News Central</title>
+    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120150000 +0000" stop="20261120160000 +0000">
+    <title lang="zh">Live: The Situation Room</title>
+    <desc>Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120160000 +0000" stop="20261120170000 +0000">
+    <title lang="zh">Live: The Situation Room</title>
+    <desc>Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120170000 +0000" stop="20261120180000 +0000">
+    <title lang="zh">Live: Inside Politics With Dana Bash</title>
+    <desc>Top political stories researched by top reporters.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120180000 +0000" stop="20261120190000 +0000">
+    <title lang="zh">Live: CNN News Central</title>
+    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120190000 +0000" stop="20261120200000 +0000">
+    <title lang="zh">Live: CNN News Central</title>
+    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120200000 +0000" stop="20261120210000 +0000">
+    <title lang="zh">Live: CNN News Central</title>
+    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120210000 +0000" stop="20261120220000 +0000">
+    <title lang="zh">Live: The Arena With Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120220000 +0000" stop="20261120230000 +0000">
+    <title lang="zh">Live: The Lead With Jake Tapper</title>
+    <desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money and sports to popular culture.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261120230000 +0000" stop="20261121000000 +0000">
+    <title lang="zh">Live: The Lead With Jake Tapper</title>
+    <desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money and sports to popular culture.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464857" start="20261121000000 +0000" stop="20261122000000 +0000">
+    <title lang="zh">Live: Erin Burnett OutFront</title>
+    <desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative with compelling interviews, lively debates and analysis of situations.</desc>
+    <date>2026-11-21</date>
   </programme>
 
   <channel id="465087">
@@ -1089,206 +1089,6 @@
     <display-name lang="US">ABC News Live</display-name>
     <icon src="" />
   </channel>
-  <programme channel="465150" start="20261118000000 +0000" stop="20261118013000 +0000">
-    <title lang="zh">Live: ABCNL Prime With Linsey Davis</title>
-    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118013000 +0000" stop="20261118020000 +0000">
-    <title lang="zh">Burden of Proof</title>
-    <desc />
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118020000 +0000" stop="20261118030000 +0000">
-    <title lang="zh">Live: ABCNL Prime With Linsey Davis</title>
-    <desc>Your news source for context and analysis of the day's top news stories — hosted by Linsey Davis.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118030000 +0000" stop="20261118033000 +0000">
-    <title lang="zh">Live: ABC World News Tonight With David Muir</title>
-    <desc>Delivering the news that matters most.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118033000 +0000" stop="20261118043000 +0000">
-    <title lang="zh">Live: ABCNL Prime With Linsey Davis</title>
-    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118043000 +0000" stop="20261118050000 +0000">
-    <title lang="zh">ABC World News Tonight With David Muir</title>
-    <desc>Delivering the news that matters most.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118050000 +0000" stop="20261118053000 +0000">
-    <title lang="zh">ABCNL Prime With Linsey Davis</title>
-    <desc>Your news source for context and analysis of the day's top news stories -- hosted by Linsey Davis.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118053000 +0000" stop="20261118060000 +0000">
-    <title lang="zh">ABC World News Tonight With David Muir</title>
-    <desc>Delivering the news that matters most.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118060000 +0000" stop="20261118063000 +0000">
-    <title lang="zh">Live: Nightline</title>
-    <desc>In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118063000 +0000" stop="20261118070000 +0000">
-    <title lang="zh">ABC World News Tonight With David Muir</title>
-    <desc>Delivering the news that matters most.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118070000 +0000" stop="20261118073000 +0000">
-    <title lang="zh">Live: ABC World News Now</title>
-    <desc>ABC's "World News Now" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118073000 +0000" stop="20261118080000 +0000">
-    <title lang="zh">ABC World News Now</title>
-    <desc>ABC's "World News Now" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118080000 +0000" stop="20261118083000 +0000">
-    <title lang="zh">Live: ABC World News Now</title>
-    <desc>ABC's "World News Now" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118083000 +0000" stop="20261118090000 +0000">
-    <title lang="zh">ABC World News Now</title>
-    <desc>ABC's "World News Now" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118090000 +0000" stop="20261118093000 +0000">
-    <title lang="zh">Live: Good Morning America First Look</title>
-    <desc>ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118093000 +0000" stop="20261118100000 +0000">
-    <title lang="zh">Good Morning America First Look</title>
-    <desc>ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118100000 +0000" stop="20261118103000 +0000">
-    <title lang="zh">Live: Good Morning America First Look</title>
-    <desc>ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118103000 +0000" stop="20261118110000 +0000">
-    <title lang="zh">Good Morning America First Look</title>
-    <desc>ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118110000 +0000" stop="20261118113000 +0000">
-    <title lang="zh">Live: Good Morning America First Look</title>
-    <desc>ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118113000 +0000" stop="20261118120000 +0000">
-    <title lang="zh">Good Morning America First Look</title>
-    <desc>ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118120000 +0000" stop="20261118123000 +0000">
-    <title lang="zh">Good Morning America First Look</title>
-    <desc>ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118123000 +0000" stop="20261118130000 +0000">
-    <title lang="zh">Live: Start Here</title>
-    <desc>Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118130000 +0000" stop="20261118143000 +0000">
-    <title lang="zh">ABC News Live First</title>
-    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118143000 +0000" stop="20261118150000 +0000">
-    <title lang="zh">ABC News Live First</title>
-    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118150000 +0000" stop="20261118153000 +0000">
-    <title lang="zh">ABC News Live First</title>
-    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118153000 +0000" stop="20261118160000 +0000">
-    <title lang="zh">ABC News Live First</title>
-    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118160000 +0000" stop="20261118163000 +0000">
-    <title lang="zh">ABC News Live First</title>
-    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118163000 +0000" stop="20261118170000 +0000">
-    <title lang="zh">ABC News Live First</title>
-    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118170000 +0000" stop="20261118183000 +0000">
-    <title lang="zh">ABC News Live</title>
-    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118183000 +0000" stop="20261118190000 +0000">
-    <title lang="zh">ABC News Live</title>
-    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118190000 +0000" stop="20261118193000 +0000">
-    <title lang="zh">ABC News Live</title>
-    <desc>ABC News Live will bring streaming viewers the latest headlines, compelling stories, interviews and roundtable discussions.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118193000 +0000" stop="20261118200000 +0000">
-    <title lang="zh">ABC News Live</title>
-    <desc>ABC News Live will bring streaming viewers the latest headlines, compelling stories, interviews and roundtable discussions.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118200000 +0000" stop="20261118203000 +0000">
-    <title lang="zh">ABC News Live</title>
-    <desc>ABC News Live will bring streaming viewers the latest headlines, compelling stories, interviews and roundtable discussions.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118203000 +0000" stop="20261118210000 +0000">
-    <title lang="zh">ABC News Live</title>
-    <desc>ABC News Live will bring streaming viewers the latest headlines, compelling stories, interviews and roundtable discussions.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118210000 +0000" stop="20261118213000 +0000">
-    <title lang="zh">ABC News Live Reports</title>
-    <desc>24/7 coverage of breaking news and live events.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118213000 +0000" stop="20261118220000 +0000">
-    <title lang="zh">Live: Searched</title>
-    <desc />
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118220000 +0000" stop="20261118223000 +0000">
-    <title lang="zh">ABC News Live Reports</title>
-    <desc>24/7 coverage of breaking news and live events.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118223000 +0000" stop="20261118230000 +0000">
-    <title lang="zh">Live: Burden of Proof</title>
-    <desc />
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118230000 +0000" stop="20261118233000 +0000">
-    <title lang="zh">ABC News Live Reports</title>
-    <desc>24/7 coverage of breaking news and live events.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465150" start="20261118233000 +0000" stop="20261119000000 +0000">
-    <title lang="zh">Searched</title>
-    <desc />
-    <date>2026-11-18</date>
-  </programme>
   <programme channel="465150" start="20261119000000 +0000" stop="20261119010000 +0000">
     <title lang="zh">Live: ABCNL Prime With Linsey Davis</title>
     <desc>Your news source for context and analysis of the day's top news stories -- hosted by Linsey Davis.</desc>
@@ -1494,10 +1294,210 @@
     <desc />
     <date>2026-11-19</date>
   </programme>
-  <programme channel="465150" start="20261120000000 +0000" stop="20261121000000 +0000">
+  <programme channel="465150" start="20261120000000 +0000" stop="20261120013000 +0000">
     <title lang="zh">Live: ABCNL Prime With Linsey Davis</title>
     <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
     <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120013000 +0000" stop="20261120020000 +0000">
+    <title lang="zh">Burden of Proof</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120020000 +0000" stop="20261120030000 +0000">
+    <title lang="zh">Live: ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120030000 +0000" stop="20261120033000 +0000">
+    <title lang="zh">Live: ABC World News Tonight With David Muir</title>
+    <desc>Delivering the news that matters most.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120033000 +0000" stop="20261120043000 +0000">
+    <title lang="zh">Live: ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120043000 +0000" stop="20261120050000 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>Delivering the news that matters most.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120050000 +0000" stop="20261120053000 +0000">
+    <title lang="zh">ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120053000 +0000" stop="20261120060000 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>Delivering the news that matters most.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120060000 +0000" stop="20261120063000 +0000">
+    <title lang="zh">Live: Nightline</title>
+    <desc>In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120063000 +0000" stop="20261120070000 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>Delivering the news that matters most.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120070000 +0000" stop="20261120073000 +0000">
+    <title lang="zh">Live: ABC World News Now</title>
+    <desc>Overnight breaking news, weather, politics, and the stories and video people will be talking about.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120073000 +0000" stop="20261120080000 +0000">
+    <title lang="zh">ABC World News Now</title>
+    <desc>Overnight breaking news, weather, politics, and the stories and video people will be talking about.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120080000 +0000" stop="20261120083000 +0000">
+    <title lang="zh">Live: ABC World News Now</title>
+    <desc>Overnight breaking news, weather, politics, and the stories and video people will be talking about.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120083000 +0000" stop="20261120090000 +0000">
+    <title lang="zh">ABC World News Now</title>
+    <desc>Overnight breaking news, weather, politics, and the stories and video people will be talking about.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120090000 +0000" stop="20261120093000 +0000">
+    <title lang="zh">Live: Good Morning America First Look</title>
+    <desc>ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120093000 +0000" stop="20261120100000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120100000 +0000" stop="20261120103000 +0000">
+    <title lang="zh">Live: Good Morning America First Look</title>
+    <desc>ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120103000 +0000" stop="20261120110000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120110000 +0000" stop="20261120113000 +0000">
+    <title lang="zh">Live: Good Morning America First Look</title>
+    <desc>ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120113000 +0000" stop="20261120120000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120120000 +0000" stop="20261120123000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120123000 +0000" stop="20261120130000 +0000">
+    <title lang="zh">Live: Start Here</title>
+    <desc>Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120130000 +0000" stop="20261120143000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120143000 +0000" stop="20261120150000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120150000 +0000" stop="20261120153000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120153000 +0000" stop="20261120160000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120160000 +0000" stop="20261120163000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120163000 +0000" stop="20261120170000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120170000 +0000" stop="20261120183000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120183000 +0000" stop="20261120190000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120190000 +0000" stop="20261120193000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120193000 +0000" stop="20261120200000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120200000 +0000" stop="20261120203000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120203000 +0000" stop="20261120210000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120210000 +0000" stop="20261120213000 +0000">
+    <title lang="zh">ABC News Live Reports</title>
+    <desc>24/7 coverage of breaking news and live events.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120213000 +0000" stop="20261120220000 +0000">
+    <title lang="zh">Live: Searched</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120220000 +0000" stop="20261120223000 +0000">
+    <title lang="zh">ABC News Live Reports</title>
+    <desc>24/7 coverage of breaking news and live events.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120223000 +0000" stop="20261120230000 +0000">
+    <title lang="zh">Live: Burden of Proof</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120230000 +0000" stop="20261120233000 +0000">
+    <title lang="zh">ABC News Live Reports</title>
+    <desc>24/7 coverage of breaking news and live events.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261120233000 +0000" stop="20261121000000 +0000">
+    <title lang="zh">Searched</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465150" start="20261121000000 +0000" stop="20261122000000 +0000">
+    <title lang="zh">Live: ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <date>2026-11-21</date>
   </programme>
 
   <channel id="470185">
@@ -2064,146 +2064,6 @@
     <display-name lang="US">CBS News National Stream</display-name>
     <icon src="" />
   </channel>
-  <programme channel="464941" start="20261118000000 +0000" stop="20261118020000 +0000">
-    <title lang="zh">24/7 Primetime</title>
-    <desc>Delivering the news you need to know.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118020000 +0000" stop="20261118030000 +0000">
-    <title lang="zh">The Daily Report</title>
-    <desc>The Daily Report on CBS News features original interviews and insights on the most important, urgent and interesting stories of the day.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118030000 +0000" stop="20261118033000 +0000">
-    <title lang="zh">CBS Evening News</title>
-    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118033000 +0000" stop="20261118040000 +0000">
-    <title lang="zh">24/7 Primetime</title>
-    <desc>Delivering the news you need to know.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118040000 +0000" stop="20261118043000 +0000">
-    <title lang="zh">CBS Evening News</title>
-    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118043000 +0000" stop="20261118050000 +0000">
-    <title lang="zh">24/7 Primetime</title>
-    <desc>Delivering the news you need to know.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118050000 +0000" stop="20261118053000 +0000">
-    <title lang="zh">CBS Evening News</title>
-    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118053000 +0000" stop="20261118060000 +0000">
-    <title lang="zh">24/7 Primetime</title>
-    <desc>Delivering the news you need to know.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118060000 +0000" stop="20261118070000 +0000">
-    <title lang="zh">CBS News Roundup</title>
-    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118070000 +0000" stop="20261118073000 +0000">
-    <title lang="zh">CBS Evening News</title>
-    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118073000 +0000" stop="20261118083000 +0000">
-    <title lang="zh">CBS News Roundup</title>
-    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118083000 +0000" stop="20261118090000 +0000">
-    <title lang="zh">CBS Evening News</title>
-    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118090000 +0000" stop="20261118100000 +0000">
-    <title lang="zh">CBS News Roundup</title>
-    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118100000 +0000" stop="20261118103000 +0000">
-    <title lang="zh">CBS News Mornings</title>
-    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118103000 +0000" stop="20261118110000 +0000">
-    <title lang="zh">CBS News Mornings</title>
-    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118110000 +0000" stop="20261118113000 +0000">
-    <title lang="zh">CBS News Mornings</title>
-    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118113000 +0000" stop="20261118120000 +0000">
-    <title lang="zh">CBS News Mornings</title>
-    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118120000 +0000" stop="20261118130000 +0000">
-    <title lang="zh">CBS Morning News</title>
-    <desc>Join Errol Barnett for the CBS Morning News weekdays at 7AM ET. Featuring the latest breaking news, in depth original reporting and news making interviews plus all the big stories impacting Americans from coast to coast.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118130000 +0000" stop="20261118140000 +0000">
-    <title lang="zh">CBS Mornings</title>
-    <desc>Hosts Gayle King, Norah O'Donnell and Nate Burleson set out to unite CBS' morning landscape with their lively and original reporting on international news stories during the weekday program's first hour, while expanding on feature reporting during the second hour with live interviews as well as in-depth pieces, covering topics from news, sports, climate and technology to race, health, parenting an</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118140000 +0000" stop="20261118160000 +0000">
-    <title lang="zh">CBS News 24/7 Mornings</title>
-    <desc />
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118160000 +0000" stop="20261118170000 +0000">
-    <title lang="zh">CBS News 24/7</title>
-    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118170000 +0000" stop="20261118180000 +0000">
-    <title lang="zh">CBS News 24/7</title>
-    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118180000 +0000" stop="20261118190000 +0000">
-    <title lang="zh">CBS News 24/7</title>
-    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118190000 +0000" stop="20261118200000 +0000">
-    <title lang="zh">CBS News 24/7</title>
-    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118200000 +0000" stop="20261118210000 +0000">
-    <title lang="zh">CBS News 24/7</title>
-    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118210000 +0000" stop="20261118220000 +0000">
-    <title lang="zh">CBS News 24/7</title>
-    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118220000 +0000" stop="20261118230000 +0000">
-    <title lang="zh">The Takeout with Major Garrett</title>
-    <desc>The Takeout is a new spin on the widely acclaimed podcast hosted by CBS News Chief Washington Correspondent Major Garrett. A daily streaming show that harnesses the best of CBS News's political reporting and lives comfortably in deep discussions of economics, pop culture, sports and technology.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464941" start="20261118230000 +0000" stop="20261119000000 +0000">
-    <title lang="zh">The Daily Report</title>
-    <desc>The Daily Report on CBS News features original interviews and insights on the most important, urgent and interesting stories of the day.</desc>
-    <date>2026-11-18</date>
-  </programme>
   <programme channel="464941" start="20261119000000 +0000" stop="20261119020000 +0000">
     <title lang="zh">24/7 Primetime</title>
     <desc>Delivering the news you need to know.</desc>
@@ -2344,10 +2204,150 @@
     <desc>The Daily Report on CBS News features original interviews and insights on the most important, urgent and interesting stories of the day.</desc>
     <date>2026-11-19</date>
   </programme>
-  <programme channel="464941" start="20261120000000 +0000" stop="20261121000000 +0000">
+  <programme channel="464941" start="20261120000000 +0000" stop="20261120020000 +0000">
     <title lang="zh">24/7 Primetime</title>
     <desc>Delivering the news you need to know.</desc>
     <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120020000 +0000" stop="20261120030000 +0000">
+    <title lang="zh">The Daily Report</title>
+    <desc>The Daily Report on CBS News features original interviews and insights on the most important, urgent and interesting stories of the day.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120030000 +0000" stop="20261120033000 +0000">
+    <title lang="zh">CBS Evening News</title>
+    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120033000 +0000" stop="20261120040000 +0000">
+    <title lang="zh">24/7 Primetime</title>
+    <desc>Delivering the news you need to know.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120040000 +0000" stop="20261120043000 +0000">
+    <title lang="zh">CBS Evening News</title>
+    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120043000 +0000" stop="20261120050000 +0000">
+    <title lang="zh">24/7 Primetime</title>
+    <desc>Delivering the news you need to know.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120050000 +0000" stop="20261120053000 +0000">
+    <title lang="zh">CBS Evening News</title>
+    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120053000 +0000" stop="20261120060000 +0000">
+    <title lang="zh">24/7 Primetime</title>
+    <desc>Delivering the news you need to know.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120060000 +0000" stop="20261120070000 +0000">
+    <title lang="zh">CBS News Roundup</title>
+    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120070000 +0000" stop="20261120073000 +0000">
+    <title lang="zh">CBS Evening News</title>
+    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120073000 +0000" stop="20261120083000 +0000">
+    <title lang="zh">CBS News Roundup</title>
+    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120083000 +0000" stop="20261120090000 +0000">
+    <title lang="zh">CBS Evening News</title>
+    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120090000 +0000" stop="20261120100000 +0000">
+    <title lang="zh">CBS News Roundup</title>
+    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120100000 +0000" stop="20261120103000 +0000">
+    <title lang="zh">CBS News Mornings</title>
+    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120103000 +0000" stop="20261120110000 +0000">
+    <title lang="zh">CBS News Mornings</title>
+    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120110000 +0000" stop="20261120113000 +0000">
+    <title lang="zh">CBS News Mornings</title>
+    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120113000 +0000" stop="20261120120000 +0000">
+    <title lang="zh">CBS News Mornings</title>
+    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120120000 +0000" stop="20261120130000 +0000">
+    <title lang="zh">CBS Morning News</title>
+    <desc>Join Errol Barnett for the CBS Morning News weekdays at 7AM ET. Featuring the latest breaking news, in depth original reporting and news making interviews plus all the big stories impacting Americans from coast to coast.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120130000 +0000" stop="20261120140000 +0000">
+    <title lang="zh">CBS Mornings</title>
+    <desc>Hosts Gayle King, Norah O'Donnell and Nate Burleson set out to unite CBS' morning landscape with their lively and original reporting on international news stories during the weekday program's first hour, while expanding on feature reporting during the second hour with live interviews as well as in-depth pieces, covering topics from news, sports, climate and technology to race, health, parenting an</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120140000 +0000" stop="20261120160000 +0000">
+    <title lang="zh">CBS News 24/7 Mornings</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120160000 +0000" stop="20261120170000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120170000 +0000" stop="20261120180000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120180000 +0000" stop="20261120190000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120190000 +0000" stop="20261120200000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120200000 +0000" stop="20261120210000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120210000 +0000" stop="20261120220000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120220000 +0000" stop="20261120230000 +0000">
+    <title lang="zh">The Takeout with Major Garrett</title>
+    <desc>The Takeout is a new spin on the widely acclaimed podcast hosted by CBS News Chief Washington Correspondent Major Garrett. A daily streaming show that harnesses the best of CBS News's political reporting and lives comfortably in deep discussions of economics, pop culture, sports and technology.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261120230000 +0000" stop="20261121000000 +0000">
+    <title lang="zh">The Daily Report</title>
+    <desc>The Daily Report on CBS News features original interviews and insights on the most important, urgent and interesting stories of the day.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464941" start="20261121000000 +0000" stop="20261122000000 +0000">
+    <title lang="zh">24/7 Primetime</title>
+    <desc>Delivering the news you need to know.</desc>
+    <date>2026-11-21</date>
   </programme>
 
   <channel id="464937">
@@ -4669,216 +4669,6 @@
     <display-name lang="US">WFOX-DT</display-name>
     <icon src="" />
   </channel>
-  <programme channel="469143" start="20261118000000 +0000" stop="20261118003000 +0000">
-    <title lang="zh">America's Funniest Home Videos</title>
-    <desc>A studio audience votes on the most hilarious home video. Alfonso Ribeiro hosts.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118003000 +0000" stop="20261118010000 +0000">
-    <title lang="zh">Judy Justice</title>
-    <desc>A retired LAPD police officer sues a comic book store owner for over $5,000, accusing him of pilfering prized comics from his childhood collection that he planned to donate to a children's charity.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118010000 +0000" stop="20261118020000 +0000">
-    <title lang="zh">Best Medicine</title>
-    <desc>When he discovers that his predecessor, the beloved Dr. Reese, had diagnosed a patient's brain tumor moments before he died, Martin, with Louisa's help, must deduce who it was in order to save them.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118020000 +0000" stop="20261118030000 +0000">
-    <title lang="zh">Doc</title>
-    <desc>Amy treats a rural patient whose condition has worsened significantly due to a lack of medical resources; as Ben prepares to launch the artificial heart surgery trial, Jake grapples with his role in deciding which patient gets to go first.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118030000 +0000" stop="20261118033000 +0000">
-    <title lang="zh">Live: Action News Jax at 10:00pm</title>
-    <desc>Evening news from Jacksonville.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118033000 +0000" stop="20261118040000 +0000">
-    <title lang="zh">Live: Action News Jax at 10:30pm</title>
-    <desc>Nighttime news coverage.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118040000 +0000" stop="20261118043500 +0000">
-    <title lang="zh">Live: Action News Jax at 11:00pm</title>
-    <desc>Evening news from Jacksonville.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118043500 +0000" stop="20261118050500 +0000">
-    <title lang="zh">Florida Tonight</title>
-    <desc>News alerts, headlines and weather forecast for Central Florida.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118050500 +0000" stop="20261118053000 +0000">
-    <title lang="zh">TMZ</title>
-    <desc>TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118053000 +0000" stop="20261118060000 +0000">
-    <title lang="zh">Modern Family</title>
-    <desc>Phil and Claire take Haley and Dylan to dinner to reassure them they are not bad parents; Mitch and Cam chaperone on Lily's first date; Jay and Gloria attend Joe's school play.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118060000 +0000" stop="20261118063000 +0000">
-    <title lang="zh">Modern Family</title>
-    <desc>Claire lands an interview for her dream job but is thwarted on her way to the interview by Phil's tricky staircase; Cam and Mitch debate the pros and cons of adopting another baby.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118063000 +0000" stop="20261118070000 +0000">
-    <title lang="zh">Live PD Presents</title>
-    <desc />
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118070000 +0000" stop="20261118073000 +0000">
-    <title lang="zh">Crime Exposé With Nancy O'Dell</title>
-    <desc>Taking viewers through all aspects of a murder investigation.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118073000 +0000" stop="20261118080000 +0000">
-    <title lang="zh">Justice for the People With Judge Milian</title>
-    <desc>The owner of a moving company is accused of offering a huge discount to a client, then adding extra labor charges that more than tripled the original quote.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118080000 +0000" stop="20261118083000 +0000">
-    <title lang="zh">iCRIME With Elizabeth Vargas</title>
-    <desc>Crimes from across the country that have been captured by ordinary people on their smartphones; stories of victims, witnesses, law enforcement and the videographers themselves.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118083000 +0000" stop="20261118090000 +0000">
-    <title lang="zh">Crime Beat</title>
-    <desc>In May 2007, 15-year-old Jordan Manners was gunned down in a hallway, marking the first time a student was shot and killed inside a Toronto school and Catherine McDonald remembers the murder, its impact on the community and his family.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118090000 +0000" stop="20261118093000 +0000">
-    <title lang="zh">National News Tonight</title>
-    <desc />
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118093000 +0000" stop="20261118100000 +0000">
-    <title lang="zh">Live: Action News Jax at 4:30am</title>
-    <desc>Morning news coverage.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118100000 +0000" stop="20261118103000 +0000">
-    <title lang="zh">Live: Action News Jax at 5:00am</title>
-    <desc>Morning news coverage.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118103000 +0000" stop="20261118110000 +0000">
-    <title lang="zh">Live: Action News Jax at 5:30am</title>
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118110000 +0000" stop="20261118120000 +0000">
-    <title lang="zh">Live: Action News Jax at 6:00am</title>
-    <desc>Morning news coverage.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118120000 +0000" stop="20261118130000 +0000">
-    <title lang="zh">Live: Action News Jax at 7:00am</title>
-    <desc>Morning news from Jacksonville.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118130000 +0000" stop="20261118140000 +0000">
-    <title lang="zh">Live: Action News Jax at 8:00am</title>
-    <desc>Morning news coverage.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118140000 +0000" stop="20261118143000 +0000">
-    <title lang="zh">Family Feud Favorites</title>
-    <desc>"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118143000 +0000" stop="20261118150000 +0000">
-    <title lang="zh">Family Feud Favorites</title>
-    <desc>"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118150000 +0000" stop="20261118153000 +0000">
-    <title lang="zh">Hearts of Heroes</title>
-    <desc>A teenager loses control of a runaway car; a woman becomes trapped in a submerged vehicle.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118153000 +0000" stop="20261118160000 +0000">
-    <title lang="zh">Crime Exposé With Nancy O'Dell</title>
-    <desc>When a woman is found dead under suspicious circumstances, investigators unravel a tangle of hidden relationships, conflicting stories, and buried secrets.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118160000 +0000" stop="20261118170000 +0000">
-    <title lang="zh">Tamron Hall</title>
-    <desc>A five-year-old music prodigy; a three-year-old basketball phenom; a young brother-and-sister cooking duo; a seven-year-old lyra hoop dancer.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118170000 +0000" stop="20261118173000 +0000">
-    <title lang="zh">Live: Action News Jax at Noon</title>
-    <desc>Midday news update.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118173000 +0000" stop="20261118180000 +0000">
-    <title lang="zh">America's Funniest Home Videos</title>
-    <desc>A studio audience votes on the most hilarious home video. Alfonso Ribeiro hosts.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118180000 +0000" stop="20261118183000 +0000">
-    <title lang="zh">Hot Bench</title>
-    <desc>A woman claims she sent a friend money for legal representation; he argues the financial help came with no expectation of repayment.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118183000 +0000" stop="20261118190000 +0000">
-    <title lang="zh">Hot Bench</title>
-    <desc>A tennis racket, a parked car and a shaky video collide in this neighborhood dispute; the plaintiff says the defendant's child caused damage to their car during play, while the defendant denies that their child was responsible and argues that the car shouldn't have been parked there at all. What should have been an easy lob turns into a full-court argument.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118190000 +0000" stop="20261118193000 +0000">
-    <title lang="zh">The Perfect Line</title>
-    <desc>Players Jerri, Merry, Ambriya and Christopher compete to get the most correct answers.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118193000 +0000" stop="20261118200000 +0000">
-    <title lang="zh">The Perfect Line</title>
-    <desc>Players Winnie, Payson, Kevin and Tammie compete to get the most correct answers.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118200000 +0000" stop="20261118203000 +0000">
-    <title lang="zh">Family Feud</title>
-    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118203000 +0000" stop="20261118210000 +0000">
-    <title lang="zh">Family Feud</title>
-    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118210000 +0000" stop="20261118213000 +0000">
-    <title lang="zh">Live: Action News Jax at 4:00pm</title>
-    <desc>Local and regional news coverage.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118213000 +0000" stop="20261118220000 +0000">
-    <title lang="zh">Judy Justice</title>
-    <desc>A homeowner sues a neighbor over vandalism by her 11-year-old son; A novice driver faces a lawsuit for damages to a borrowed motorcycle.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118220000 +0000" stop="20261118223000 +0000">
-    <title lang="zh">Live: Action News Jax at 5:00pm</title>
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118223000 +0000" stop="20261118230000 +0000">
-    <title lang="zh">Live: Action News Jax at 5:30pm</title>
-    <desc>Evening news coverage.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118230000 +0000" stop="20261118233000 +0000">
-    <title lang="zh">Live: Action News Jax at 6:00pm</title>
-    <desc>Local, national and international news coverage.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="469143" start="20261118233000 +0000" stop="20261119000000 +0000">
-    <title lang="zh">Live: Action News Jax at 6:30pm</title>
-    <desc>Evening news from Jacksonville.</desc>
-    <date>2026-11-18</date>
-  </programme>
   <programme channel="469143" start="20261119000000 +0000" stop="20261119003000 +0000">
     <title lang="zh">Jags Wired</title>
     <desc />
@@ -5089,10 +4879,220 @@
     <desc>Evening news from Jacksonville.</desc>
     <date>2026-11-19</date>
   </programme>
-  <programme channel="469143" start="20261120000000 +0000" stop="20261121000000 +0000">
+  <programme channel="469143" start="20261120000000 +0000" stop="20261120003000 +0000">
     <title lang="zh">America's Funniest Home Videos</title>
     <desc>A studio audience votes on the most hilarious home video. Alfonso Ribeiro hosts.</desc>
     <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120003000 +0000" stop="20261120010000 +0000">
+    <title lang="zh">Judy Justice</title>
+    <desc>A woman sues a dog grooming business owner in Texas for $10K, alleging negligence that caused permanent damage to her Maltese; a mother sues her son's ex-fiancée for repayment of mortgage foreclosure fees.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120010000 +0000" stop="20261120020000 +0000">
+    <title lang="zh">Hell's Kitchen</title>
+    <desc>"Hell's Kitchen" celebrates America's 250th anniversary with a five-dome challenge, sending one team to Boston to sail and one team back to the kitchen to bake bread; in dinner service, both teams struggle, leading to more than one elimination.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120020000 +0000" stop="20261120030000 +0000">
+    <title lang="zh">Next Level Baker</title>
+    <desc>Nine bakers from home, professional and social media backgrounds compete; Pentatonix performs; following a surprise team reveal, the competition unfolds with festive flair.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120030000 +0000" stop="20261120033000 +0000">
+    <title lang="zh">Live: Action News Jax at 10:00pm</title>
+    <desc>Evening news from Jacksonville.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120033000 +0000" stop="20261120040000 +0000">
+    <title lang="zh">Live: Action News Jax at 10:30pm</title>
+    <desc>Nighttime news coverage.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120040000 +0000" stop="20261120043500 +0000">
+    <title lang="zh">Live: Action News Jax at 11:00pm</title>
+    <desc>Evening news from Jacksonville.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120043500 +0000" stop="20261120050500 +0000">
+    <title lang="zh">Florida Tonight</title>
+    <desc>News alerts, headlines and weather forecast for Central Florida.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120050500 +0000" stop="20261120053000 +0000">
+    <title lang="zh">TMZ</title>
+    <desc>TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120053000 +0000" stop="20261120060000 +0000">
+    <title lang="zh">Modern Family</title>
+    <desc>The family struggles with goodbyes.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120060000 +0000" stop="20261120063000 +0000">
+    <title lang="zh">Modern Family</title>
+    <desc>Jay has grown children, grandchildren and a gorgeous young wife, who has a preteen son of her own; all together they must bridge generational, cultural and social gaps.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120063000 +0000" stop="20261120070000 +0000">
+    <title lang="zh">Live PD Presents</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120070000 +0000" stop="20261120073000 +0000">
+    <title lang="zh">Crime Exposé With Nancy O'Dell</title>
+    <desc>Taking viewers through all aspects of a murder investigation.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120073000 +0000" stop="20261120080000 +0000">
+    <title lang="zh">Justice for the People With Judge Milian</title>
+    <desc>A woman hires a friend to care for her elderly mother, then accuses her of neglecting her mother's wounded toe, leading to amputation.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120080000 +0000" stop="20261120083000 +0000">
+    <title lang="zh">iCRIME With Elizabeth Vargas</title>
+    <desc>Crimes from across the country that have been captured by ordinary people on their smartphones; stories of victims, witnesses, law enforcement and the videographers themselves.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120083000 +0000" stop="20261120090000 +0000">
+    <title lang="zh">Crime Beat</title>
+    <desc>Kimberlee hasn't been heard from since 2016; her partner says she left and abandoned the family and her parents accuse him of murder; Rumina Daya investigates this unsolved case that's testing the limits of international justice.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120090000 +0000" stop="20261120093000 +0000">
+    <title lang="zh">National News Tonight</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120093000 +0000" stop="20261120100000 +0000">
+    <title lang="zh">Live: Action News Jax at 4:30am</title>
+    <desc>Morning news coverage.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120100000 +0000" stop="20261120103000 +0000">
+    <title lang="zh">Live: Action News Jax at 5:00am</title>
+    <desc>Morning news coverage.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120103000 +0000" stop="20261120110000 +0000">
+    <title lang="zh">Live: Action News Jax at 5:30am</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120110000 +0000" stop="20261120120000 +0000">
+    <title lang="zh">Live: Action News Jax at 6:00am</title>
+    <desc>Morning news coverage.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120120000 +0000" stop="20261120130000 +0000">
+    <title lang="zh">Live: Action News Jax at 7:00am</title>
+    <desc>Morning news from Jacksonville.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120130000 +0000" stop="20261120140000 +0000">
+    <title lang="zh">Live: Action News Jax at 8:00am</title>
+    <desc>Morning news coverage.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120140000 +0000" stop="20261120143000 +0000">
+    <title lang="zh">Family Feud Favorites</title>
+    <desc>"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120143000 +0000" stop="20261120150000 +0000">
+    <title lang="zh">Family Feud Favorites</title>
+    <desc>"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120150000 +0000" stop="20261120153000 +0000">
+    <title lang="zh">Made in Hollywood: Teen Edition</title>
+    <desc>This educational/informational weekly series showcases how and why movies are made, including behind-the-scenes filmmaking and special effects techniques, in addition to introducing teenagers to career opportunities within the motion picture industry.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120153000 +0000" stop="20261120160000 +0000">
+    <title lang="zh">Crime Exposé With Nancy O'Dell</title>
+    <desc>A woman is killed by her ex-husband.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120160000 +0000" stop="20261120170000 +0000">
+    <title lang="zh">Tamron Hall</title>
+    <desc>Food columnist Melissa Clark; restaurateurs Nick Anderer and Natalie Johnson; chef Maria Bido.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120170000 +0000" stop="20261120173000 +0000">
+    <title lang="zh">Live: Action News Jax at Noon</title>
+    <desc>Midday news update.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120173000 +0000" stop="20261120180000 +0000">
+    <title lang="zh">America's Funniest Home Videos</title>
+    <desc>A studio audience votes on the most hilarious home video. Alfonso Ribeiro hosts.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120180000 +0000" stop="20261120183000 +0000">
+    <title lang="zh">Hot Bench</title>
+    <desc>One spouse claims she's stuck paying for business equipment, while he argues she's bundling unrelated purchases into the dispute.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120183000 +0000" stop="20261120190000 +0000">
+    <title lang="zh">Hot Bench</title>
+    <desc>A condo rental turns chaotic after a shooting sparks HOA fines and attorney fees; the owner says the tenant agreed to split the costs, but the tenant argues that the guests should be held responsible! Watch as tensions rise and accountability hangs in the balance.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120190000 +0000" stop="20261120193000 +0000">
+    <title lang="zh">The Perfect Line</title>
+    <desc>Players Kevin, Leslie, Carl and Kenisha compete to get the most correct answers.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120193000 +0000" stop="20261120200000 +0000">
+    <title lang="zh">The Perfect Line</title>
+    <desc>Players Julie, Cheri, Brendan and Mello compete to get the most correct answers.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120200000 +0000" stop="20261120203000 +0000">
+    <title lang="zh">Family Feud</title>
+    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120203000 +0000" stop="20261120210000 +0000">
+    <title lang="zh">Family Feud</title>
+    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120210000 +0000" stop="20261120213000 +0000">
+    <title lang="zh">Live: Action News Jax at 4:00pm</title>
+    <desc>Local and regional news coverage.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120213000 +0000" stop="20261120220000 +0000">
+    <title lang="zh">Judy Justice</title>
+    <desc>A woman sues an ex-friend for repayment of a 6,000 dollar loan to kickstart a charity Bingo hall; her ex-friend claims it was a philanthropic gesture from a Bingo influencer known for attracting big spenders.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120220000 +0000" stop="20261120223000 +0000">
+    <title lang="zh">Live: Action News Jax at 5:00pm</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120223000 +0000" stop="20261120230000 +0000">
+    <title lang="zh">Live: Action News Jax at 5:30pm</title>
+    <desc>Evening news coverage.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120230000 +0000" stop="20261120233000 +0000">
+    <title lang="zh">Live: Action News Jax at 6:00pm</title>
+    <desc>Local, national and international news coverage.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261120233000 +0000" stop="20261121000000 +0000">
+    <title lang="zh">Live: Action News Jax at 6:30pm</title>
+    <desc>Evening news from Jacksonville.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="469143" start="20261121000000 +0000" stop="20261122000000 +0000">
+    <title lang="zh">Live: Action Sports Jax: Jags Social</title>
+    <desc />
+    <date>2026-11-21</date>
   </programme>
 
   <channel id="465006">
@@ -6459,101 +6459,6 @@
     <display-name lang="US">Golf Channel HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="464783" start="20261118000000 +0000" stop="20261118010000 +0000">
-    <title lang="zh">Live: GolfPass Academy Tour</title>
-    <desc>The GolfPass Academy Tour is hitting the road and bringing together our top instructors to teach invaluable insights about the golf swing. Play More. Play Better.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118010000 +0000" stop="20261118040000 +0000">
-    <title lang="zh">LPGA Tour Golf</title>
-    <desc>From Pelican Golf Club in Belleair, Fla.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118040000 +0000" stop="20261118043000 +0000">
-    <title lang="zh">Golf Central</title>
-    <desc>Golf Channel's flagship news program, the nightly "Golf Central" presents highlights from the major golf tours and world events, plus reports and features from tournament sites.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118043000 +0000" stop="20261118050000 +0000">
-    <title lang="zh">Road to CME Group Tour Championship</title>
-    <desc>A look at the path traveled by LPGA golfers as they fought for the CME Group Tour Championship.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118050000 +0000" stop="20261118080000 +0000">
-    <title lang="zh">LPGA Tour Golf</title>
-    <desc>From Pelican Golf Club in Belleair, Fla.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118080000 +0000" stop="20261118083000 +0000">
-    <title lang="zh">PGA Tour -- The Drop</title>
-    <desc>Diving into the intensity of tournament play, previewing what's ahead and recapping storylines; giving fans a unique look at the players on and off the course.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118083000 +0000" stop="20261118110000 +0000">
-    <title lang="zh">PGA Tour Champions Learning Center</title>
-    <desc>Tips and tricks from the legends of the game.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118110000 +0000" stop="20261118113000 +0000">
-    <title lang="zh">Golf Central</title>
-    <desc>Golf Channel's flagship news program, the nightly "Golf Central" presents highlights from the major golf tours and world events, plus reports and features from tournament sites.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118113000 +0000" stop="20261118120000 +0000">
-    <title lang="zh">Road to CME Group Tour Championship</title>
-    <desc>A look at the path traveled by LPGA golfers as they fought for the CME Group Tour Championship.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118120000 +0000" stop="20261118123000 +0000">
-    <title lang="zh">Golf Central</title>
-    <desc>Golf Channel's flagship news program, the nightly "Golf Central" presents highlights from the major golf tours and world events, plus reports and features from tournament sites.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118123000 +0000" stop="20261118130000 +0000">
-    <title lang="zh">Road to CME Group Tour Championship</title>
-    <desc>A look at the path traveled by LPGA golfers as they fought for the CME Group Tour Championship.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118130000 +0000" stop="20261118140000 +0000">
-    <title lang="zh">Live: 5 Clubs With Gary Williams</title>
-    <desc>Viewpoints of people in the game with people who love the game; we discuss what is of interest to them in the vast and deep reservoir of stories within the game of golf.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118140000 +0000" stop="20261118150000 +0000">
-    <title lang="zh">Live: The Smylie Show</title>
-    <desc>PGA Tour winner Smylie Kaufman shares golf insights and conversations with tour pros and celebs.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118150000 +0000" stop="20261118160000 +0000">
-    <title lang="zh">Live: Vanity Index Podcast</title>
-    <desc>An offbeat look at the game of golf.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118160000 +0000" stop="20261118170000 +0000">
-    <title lang="zh">5 Clubs With Gary Williams</title>
-    <desc>Viewpoints of people in the game with people who love the game; we discuss what is of interest to them in the vast and deep reservoir of stories within the game of golf.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118170000 +0000" stop="20261118210000 +0000">
-    <title lang="zh">Live: Golf Central</title>
-    <desc>Golf Channel's flagship news program, the nightly "Golf Central" presents highlights from the major golf tours and world events, plus reports and features from tournament sites.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118210000 +0000" stop="20261118220000 +0000">
-    <title lang="zh">Live: Golf Central</title>
-    <desc>Golf Channel's flagship news program, the nightly "Golf Central" presents highlights from the major golf tours and world events, plus reports and features from tournament sites.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118220000 +0000" stop="20261118230000 +0000">
-    <title lang="zh">The Open Highlights</title>
-    <desc>Highlights from The Open.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="464783" start="20261118230000 +0000" stop="20261119000000 +0000">
-    <title lang="zh">Golf Central</title>
-    <desc>Golf Channel's flagship news program, the nightly "Golf Central" presents highlights from the major golf tours and world events, plus reports and features from tournament sites.</desc>
-    <date>2026-11-18</date>
-  </programme>
   <programme channel="464783" start="20261119000000 +0000" stop="20261119060000 +0000">
     <title lang="zh">DP World Tour Golf</title>
     <desc>Men's stroke play at the DP World Tour Championship gets underway at Jumeirah Golf Estates in Dubai. The season-ending event features a $10 million purse on the Earth Course, where England's Matt Fitzpatrick captured the title in the 2025 tournament.</desc>
@@ -6603,6 +6508,61 @@
     <title lang="zh">PGA Tour Golf</title>
     <desc>From Sea Island Golf Club - Seaside Course in Sea Island, Ga.</desc>
     <date>2026-11-19</date>
+  </programme>
+  <programme channel="464783" start="20261120020000 +0000" stop="20261120050000 +0000">
+    <title lang="zh">2026 CME Group Tour Championship</title>
+    <desc>From Tiburon Golf Club in Naples, Fla.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464783" start="20261120050000 +0000" stop="20261120060000 +0000">
+    <title lang="zh">Golf Central</title>
+    <desc>Golf Channel's flagship news program, the nightly "Golf Central" presents highlights from the major golf tours and world events, plus reports and features from tournament sites.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464783" start="20261120060000 +0000" stop="20261120090000 +0000">
+    <title lang="zh">PGA Tour Golf</title>
+    <desc>Round 1 of The RSM Classic begins at Sea Island Golf Club on St. Simons Island. Golfers tee off across the Seaside and Plantation courses in Georgia, where Finland's Sami Valimaki captured the 2025 title with a winning score of 23-under par.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464783" start="20261120090000 +0000" stop="20261120100000 +0000">
+    <title lang="zh">Golf Central</title>
+    <desc>Golf Channel's flagship news program, the nightly "Golf Central" presents highlights from the major golf tours and world events, plus reports and features from tournament sites.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464783" start="20261120100000 +0000" stop="20261120130000 +0000">
+    <title lang="zh">2026 CME Group Tour Championship</title>
+    <desc>From Tiburon Golf Club in Naples, Fla.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464783" start="20261120130000 +0000" stop="20261120160000 +0000">
+    <title lang="zh">PGA Tour Golf</title>
+    <desc>Round 1 of The RSM Classic begins at Sea Island Golf Club on St. Simons Island. Golfers tee off across the Seaside and Plantation courses in Georgia, where Finland's Sami Valimaki captured the 2025 title with a winning score of 23-under par.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464783" start="20261120160000 +0000" stop="20261120170000 +0000">
+    <title lang="zh">Live: Golf Central Pregame</title>
+    <desc>Golf Central Pregame preps viewers for all the tournament action, with up-to-date scores, interviews, and analysis.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464783" start="20261120170000 +0000" stop="20261120200000 +0000">
+    <title lang="zh">Live: PGA Tour Golf</title>
+    <desc>Round two of The RSM Classic continues at Sea Island Golf Club as players vie to make the cut. Golfers navigate the Tom Fazio-redesigned Seaside Course, a 7,157-yard, par-70 layout built in 1929 on St. Simons Island featuring bermudagrass greens.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464783" start="20261120200000 +0000" stop="20261120220000 +0000">
+    <title lang="zh">Live: 2026 CME Group Tour Championship</title>
+    <desc>From Tiburon Golf Club in Naples, Fla.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464783" start="20261120220000 +0000" stop="20261120230000 +0000">
+    <title lang="zh">Live: Golf Central</title>
+    <desc>Golf Channel's flagship news program, the nightly "Golf Central" presents highlights from the major golf tours and world events, plus reports and features from tournament sites.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464783" start="20261120230000 +0000" stop="20261121000000 +0000">
+    <title lang="zh">PGA Tour Golf</title>
+    <desc>Round two of The RSM Classic continues at Sea Island Golf Club as players vie to make the cut. Golfers navigate the Tom Fazio-redesigned Seaside Course, a 7,157-yard, par-70 layout built in 1929 on St. Simons Island featuring bermudagrass greens.</desc>
+    <date>2026-11-20</date>
   </programme>
 
   <channel id="76740">
@@ -8614,201 +8574,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Sky News</display-name>
     <icon src="" />
   </channel>
-  <programme channel="12069" start="20261118000000 +0000" stop="20261118003000 +0000">
-    <title lang="zh">Sky News Today with Jayne Secker</title>
-    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118003000 +0000" stop="20261118010000 +0000">
-    <title lang="zh">Sky News Today with Jayne Secker</title>
-    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118010000 +0000" stop="20261118013000 +0000">
-    <title lang="zh">The News Hour With Mark Austin</title>
-    <desc>A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118013000 +0000" stop="20261118020000 +0000">
-    <title lang="zh">The News Hour With Mark Austin</title>
-    <desc>A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118020000 +0000" stop="20261118023000 +0000">
-    <title lang="zh">The News Hour With Mark Austin</title>
-    <desc>A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118023000 +0000" stop="20261118030000 +0000">
-    <title lang="zh">The News Hour With Mark Austin</title>
-    <desc>A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118030000 +0000" stop="20261118040000 +0000">
-    <title lang="zh">The Cathy Newman Show</title>
-    <desc>Cathy Newman presents the day's biggest stories, including news-making interviews, debate and straight-talking analysis from Westminster and beyond.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118040000 +0000" stop="20261118050000 +0000">
-    <title lang="zh">UK Tonight With Sarah-Jane Mee</title>
-    <desc>Sarah-Jane Mee has all the latest news from across the UK.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118050000 +0000" stop="20261118060000 +0000">
-    <title lang="zh">The World with Yalda Hakim</title>
-    <desc>Eyewitness reports, interviews and analysis on the big stories around the world with Yalda Hakim.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118060000 +0000" stop="20261118063000 +0000">
-    <title lang="zh">The Wrap With Anna Botting</title>
-    <desc>Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118063000 +0000" stop="20261118070000 +0000">
-    <title lang="zh">The Wrap With Anna Botting</title>
-    <desc>Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118070000 +0000" stop="20261118073000 +0000">
-    <title lang="zh">The Wrap With Anna Botting</title>
-    <desc>Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118073000 +0000" stop="20261118080000 +0000">
-    <title lang="zh">The Wrap With Anna Botting</title>
-    <desc>Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118080000 +0000" stop="20261118090000 +0000">
-    <title lang="zh">Sky News</title>
-    <desc>A round up of all the latest news from the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118090000 +0000" stop="20261118100000 +0000">
-    <title lang="zh">Sky News</title>
-    <desc>A round up of all the latest news from the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118100000 +0000" stop="20261118110000 +0000">
-    <title lang="zh">Sky News</title>
-    <desc>A round up of all the latest news from the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118110000 +0000" stop="20261118120000 +0000">
-    <title lang="zh">Sky News</title>
-    <desc>A round up of all the latest news from the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118120000 +0000" stop="20261118130000 +0000">
-    <title lang="zh">Sky News</title>
-    <desc>A round up of all the latest news from the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118130000 +0000" stop="20261118140000 +0000">
-    <title lang="zh">Sky News</title>
-    <desc>A round up of all the latest news from the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118140000 +0000" stop="20261118143000 +0000">
-    <title lang="zh">Mornings</title>
-    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118143000 +0000" stop="20261118150000 +0000">
-    <title lang="zh">Mornings</title>
-    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118150000 +0000" stop="20261118153000 +0000">
-    <title lang="zh">Mornings with Ridge and Frost</title>
-    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118153000 +0000" stop="20261118160000 +0000">
-    <title lang="zh">Mornings with Ridge and Frost</title>
-    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118160000 +0000" stop="20261118163000 +0000">
-    <title lang="zh">Mornings with Ridge and Frost</title>
-    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118163000 +0000" stop="20261118170000 +0000">
-    <title lang="zh">Mornings with Ridge and Frost</title>
-    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118170000 +0000" stop="20261118173000 +0000">
-    <title lang="zh">Mornings with Ridge and Frost</title>
-    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118173000 +0000" stop="20261118180000 +0000">
-    <title lang="zh">Mornings with Ridge and Frost</title>
-    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118180000 +0000" stop="20261118183000 +0000">
-    <title lang="zh">Sky News Today with Gareth Barlow</title>
-    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118183000 +0000" stop="20261118190000 +0000">
-    <title lang="zh">Sky News Today with Gareth Barlow</title>
-    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118190000 +0000" stop="20261118193000 +0000">
-    <title lang="zh">Sky News Today with Gareth Barlow</title>
-    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118193000 +0000" stop="20261118200000 +0000">
-    <title lang="zh">Sky News Today with Gareth Barlow</title>
-    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118200000 +0000" stop="20261118203000 +0000">
-    <title lang="zh">Sky News Today with Jayne Secker</title>
-    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118203000 +0000" stop="20261118210000 +0000">
-    <title lang="zh">Sky News Today with Jayne Secker</title>
-    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118210000 +0000" stop="20261118213000 +0000">
-    <title lang="zh">Sky News Today with Jayne Secker</title>
-    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118213000 +0000" stop="20261118220000 +0000">
-    <title lang="zh">Sky News Today with Jayne Secker</title>
-    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118220000 +0000" stop="20261118223000 +0000">
-    <title lang="zh">Sky News Today with Jayne Secker</title>
-    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118223000 +0000" stop="20261118230000 +0000">
-    <title lang="zh">Sky News Today with Jayne Secker</title>
-    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118230000 +0000" stop="20261118233000 +0000">
-    <title lang="zh">Sky News Today with Jayne Secker</title>
-    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="12069" start="20261118233000 +0000" stop="20261119000000 +0000">
-    <title lang="zh">Sky News Today with Jayne Secker</title>
-    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <date>2026-11-18</date>
-  </programme>
   <programme channel="12069" start="20261119000000 +0000" stop="20261119003000 +0000">
     <title lang="zh">Sky News Today with Jayne Secker</title>
     <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
@@ -9004,10 +8769,205 @@
     <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
     <date>2026-11-19</date>
   </programme>
-  <programme channel="12069" start="20261120000000 +0000" stop="20261121000000 +0000">
+  <programme channel="12069" start="20261120000000 +0000" stop="20261120003000 +0000">
     <title lang="zh">Sky News Today with Jayne Secker</title>
     <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
     <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120003000 +0000" stop="20261120010000 +0000">
+    <title lang="zh">Sky News Today with Jayne Secker</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120010000 +0000" stop="20261120013000 +0000">
+    <title lang="zh">The News Hour With Mark Austin</title>
+    <desc>A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120013000 +0000" stop="20261120020000 +0000">
+    <title lang="zh">The News Hour With Mark Austin</title>
+    <desc>A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120020000 +0000" stop="20261120023000 +0000">
+    <title lang="zh">The News Hour With Mark Austin</title>
+    <desc>A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120023000 +0000" stop="20261120030000 +0000">
+    <title lang="zh">The News Hour With Mark Austin</title>
+    <desc>A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120030000 +0000" stop="20261120040000 +0000">
+    <title lang="zh">The Cathy Newman Show</title>
+    <desc>Cathy Newman presents the day's biggest stories, including news-making interviews, debate and straight-talking analysis from Westminster and beyond.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120040000 +0000" stop="20261120050000 +0000">
+    <title lang="zh">UK Tonight With Sarah-Jane Mee</title>
+    <desc>Sarah-Jane Mee has all the latest news from across the UK.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120050000 +0000" stop="20261120060000 +0000">
+    <title lang="zh">The World with Yalda Hakim</title>
+    <desc>Eyewitness reports, interviews and analysis on the big stories around the world with Yalda Hakim.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120060000 +0000" stop="20261120063000 +0000">
+    <title lang="zh">The Wrap With Anna Botting</title>
+    <desc>Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120063000 +0000" stop="20261120070000 +0000">
+    <title lang="zh">The Wrap With Anna Botting</title>
+    <desc>Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120070000 +0000" stop="20261120073000 +0000">
+    <title lang="zh">The Wrap With Anna Botting</title>
+    <desc>Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120073000 +0000" stop="20261120080000 +0000">
+    <title lang="zh">The Wrap With Anna Botting</title>
+    <desc>Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120080000 +0000" stop="20261120090000 +0000">
+    <title lang="zh">Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120090000 +0000" stop="20261120100000 +0000">
+    <title lang="zh">Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120100000 +0000" stop="20261120110000 +0000">
+    <title lang="zh">Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120110000 +0000" stop="20261120120000 +0000">
+    <title lang="zh">Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120120000 +0000" stop="20261120130000 +0000">
+    <title lang="zh">Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120130000 +0000" stop="20261120140000 +0000">
+    <title lang="zh">Sky News</title>
+    <desc>A round up of all the latest news from the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120140000 +0000" stop="20261120143000 +0000">
+    <title lang="zh">Mornings with Jones and Melbourne</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120143000 +0000" stop="20261120150000 +0000">
+    <title lang="zh">Mornings with Jones and Melbourne</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120150000 +0000" stop="20261120153000 +0000">
+    <title lang="zh">Mornings with Jones and Melbourne</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120153000 +0000" stop="20261120160000 +0000">
+    <title lang="zh">Mornings with Jones and Melbourne</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120160000 +0000" stop="20261120163000 +0000">
+    <title lang="zh">Mornings with Jones and Melbourne</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120163000 +0000" stop="20261120170000 +0000">
+    <title lang="zh">Mornings with Jones and Melbourne</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120170000 +0000" stop="20261120173000 +0000">
+    <title lang="zh">Mornings with Jones and Melbourne</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120173000 +0000" stop="20261120180000 +0000">
+    <title lang="zh">Mornings with Jones and Melbourne</title>
+    <desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120180000 +0000" stop="20261120183000 +0000">
+    <title lang="zh">Sky News Today with Sam Washington</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120183000 +0000" stop="20261120190000 +0000">
+    <title lang="zh">Sky News Today with Sam Washington</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120190000 +0000" stop="20261120193000 +0000">
+    <title lang="zh">Sky News Today with Sam Washington</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120193000 +0000" stop="20261120200000 +0000">
+    <title lang="zh">Sky News Today with Sam Washington</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120200000 +0000" stop="20261120203000 +0000">
+    <title lang="zh">Sky News Today with Sam Washington</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120203000 +0000" stop="20261120210000 +0000">
+    <title lang="zh">Sky News Today with Sam Washington</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120210000 +0000" stop="20261120213000 +0000">
+    <title lang="zh">Sky News Today</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120213000 +0000" stop="20261120220000 +0000">
+    <title lang="zh">Sky News Today</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120220000 +0000" stop="20261120223000 +0000">
+    <title lang="zh">Sky News Today</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120223000 +0000" stop="20261120230000 +0000">
+    <title lang="zh">Sky News Today</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120230000 +0000" stop="20261120233000 +0000">
+    <title lang="zh">Sky News Today</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261120233000 +0000" stop="20261121000000 +0000">
+    <title lang="zh">Sky News Today</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="12069" start="20261121000000 +0000" stop="20261122000000 +0000">
+    <title lang="zh">Sky News Today</title>
+    <desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <date>2026-11-21</date>
   </programme>
 
   <channel id="465039">
@@ -11169,66 +11129,6 @@
     <display-name lang="US">Fox Soccer Plus HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="465214" start="20261118010000 +0000" stop="20261118030000 +0000">
-    <title lang="zh">UEFA Nations League Soccer</title>
-    <desc>League A, Group 4.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465214" start="20261118030000 +0000" stop="20261118050000 +0000">
-    <title lang="zh">UEFA Nations League Soccer</title>
-    <desc>League B, Group 2.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465214" start="20261118050000 +0000" stop="20261118060000 +0000">
-    <title lang="zh">UEFA Nations League Matchweek Highlights</title>
-    <desc>Highlights from UEFA Nations League matchday.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465214" start="20261118060000 +0000" stop="20261118080000 +0000">
-    <title lang="zh">CONCACAF Nations League Soccer</title>
-    <desc>League A, Quarterfinal, 2nd Leg.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465214" start="20261118080000 +0000" stop="20261118100000 +0000">
-    <title lang="zh">CONCACAF Nations League Soccer</title>
-    <desc>Play-in 3, 2nd Leg.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465214" start="20261118100000 +0000" stop="20261118120000 +0000">
-    <title lang="zh">CONCACAF Nations League Soccer</title>
-    <desc>Play-in 4, 2nd Leg.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465214" start="20261118120000 +0000" stop="20261118140000 +0000">
-    <title lang="zh">AFL Women's Premiership Football</title>
-    <desc>Semifinal.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465214" start="20261118140000 +0000" stop="20261118160000 +0000">
-    <title lang="zh">AFL Women's Premiership Football</title>
-    <desc>Semifinal.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465214" start="20261118160000 +0000" stop="20261118180000 +0000">
-    <title lang="zh">CONCACAF Nations League Soccer</title>
-    <desc>League A, Quarterfinal, 2nd Leg.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465214" start="20261118180000 +0000" stop="20261118200000 +0000">
-    <title lang="zh">CONCACAF Nations League Soccer</title>
-    <desc>Play-in 3, 2nd Leg.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465214" start="20261118200000 +0000" stop="20261118220000 +0000">
-    <title lang="zh">CONCACAF Nations League Soccer</title>
-    <desc>Play-in 4, 2nd Leg.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="465214" start="20261118220000 +0000" stop="20261119000000 +0000">
-    <title lang="zh">CONCACAF Nations League Soccer</title>
-    <desc>League A, Quarterfinal, 2nd Leg.</desc>
-    <date>2026-11-18</date>
-  </programme>
   <programme channel="465214" start="20261119000000 +0000" stop="20261119020000 +0000">
     <title lang="zh">UEFA Nations League Soccer</title>
     <desc>League A, Group 4.</desc>
@@ -11304,9 +11204,74 @@
     <desc>Group A.</desc>
     <date>2026-11-19</date>
   </programme>
-  <programme channel="465214" start="20261120000000 +0000" stop="20261121000000 +0000">
+  <programme channel="465214" start="20261120000000 +0000" stop="20261120020000 +0000">
     <title lang="zh">2026 FIFA U-17 World Cup</title>
     <desc>Group A.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465214" start="20261120020000 +0000" stop="20261120023000 +0000">
+    <title lang="zh">Women's Football Weekly</title>
+    <desc>Discover the best of the action from the top divisions of women's football in Italy, Germany and the Netherlands with this brand-new highlights show.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465214" start="20261120023000 +0000" stop="20261120043000 +0000">
+    <title lang="zh">2026 FIFA U-17 World Cup</title>
+    <desc>Group C.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465214" start="20261120043000 +0000" stop="20261120063000 +0000">
+    <title lang="zh">2026 FIFA U-17 World Cup</title>
+    <desc>Group D.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465214" start="20261120063000 +0000" stop="20261120083000 +0000">
+    <title lang="zh">2026 FIFA U-17 World Cup</title>
+    <desc>Group C.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465214" start="20261120083000 +0000" stop="20261120103000 +0000">
+    <title lang="zh">2026 FIFA U-17 World Cup</title>
+    <desc>Group A.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465214" start="20261120103000 +0000" stop="20261120123000 +0000">
+    <title lang="zh">2026 FIFA U-17 World Cup</title>
+    <desc>Group A.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465214" start="20261120123000 +0000" stop="20261120131800 +0000">
+    <title lang="zh">Take Us Home</title>
+    <desc>New Leeds United owner Andrea Radrizzani has a mission: to take Leeds United back to the Premier League; first he must find a new head coach capable of fulfilling the club's supporters' dreams.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465214" start="20261120131800 +0000" stop="20261120151800 +0000">
+    <title lang="zh">Live: 2026 FIFA U-17 World Cup</title>
+    <desc>Group G.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465214" start="20261120151800 +0000" stop="20261120171500 +0000">
+    <title lang="zh">Live: 2026 FIFA U-17 World Cup</title>
+    <desc>Group F.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465214" start="20261120171500 +0000" stop="20261120192500 +0000">
+    <title lang="zh">Live: Saudi League Soccer</title>
+    <desc>From Alinma Stadium in Jeddah, Saudi Arabia.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465214" start="20261120192500 +0000" stop="20261120213000 +0000">
+    <title lang="zh">Live: Italian Serie B Soccer</title>
+    <desc>From Marcantonio Bentegodi Stadium in Verona, Veneto, Italy.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465214" start="20261120213000 +0000" stop="20261120233000 +0000">
+    <title lang="zh">2026 FIFA U-17 World Cup</title>
+    <desc>Group F.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465214" start="20261120233000 +0000" stop="20261121000000 +0000">
+    <title lang="zh">2026 FIFA U-17 World Cup</title>
+    <desc>Group H.</desc>
     <date>2026-11-20</date>
   </programme>
 
@@ -11909,91 +11874,6 @@
     <display-name lang="Malaysia">beIN Sports 2</display-name>
     <icon src="" />
   </channel>
-  <programme channel="369601" start="20261118012000 +0000" stop="20261118025000 +0000">
-    <title lang="zh">Premier Padel</title>
-    <desc>Premier Padel 2026 : Milan P1 Day 7 Final - Men.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="369601" start="20261118025000 +0000" stop="20261118044000 +0000">
-    <title lang="zh">UEFA Women's Champions League : Roma Vs Servette - MD4</title>
-    <desc>UEFA Women's Champions League 2026/27 : Roma vs Servette - MD4.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="369601" start="20261118044000 +0000" stop="20261118063000 +0000">
-    <title lang="zh">UEFA Women's Champions League : Juventus Vs OL Lyonnes - MD4</title>
-    <desc>UEFA Women's Champions League 2026/27 : Juventus vs OL Lyonnes - MD4.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="369601" start="20261118063000 +0000" stop="20261118080000 +0000">
-    <title lang="zh">Premier Padel</title>
-    <desc>Premier Padel 2026 : Dubai P1 Day 6 Final - Women.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="369601" start="20261118080000 +0000" stop="20261118095000 +0000">
-    <title lang="zh">Women's Super League : Brighton Vs Liverpool</title>
-    <desc>Women's Super League 2026/27 : Brighton vs Liverpool.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="369601" start="20261118095000 +0000" stop="20261118114000 +0000">
-    <title lang="zh">TotalEnergies Africa Cup of Nations Qualifiers : Morocco Vs Niger</title>
-    <desc>TotalEnergies Africa Cup of Nations Qualifiers 2027 : Morocco vs Niger.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="369601" start="20261118114000 +0000" stop="20261118133000 +0000">
-    <title lang="zh">Women's Super League : Man United Vs Crystal Palace</title>
-    <desc>Women's Super League 2026/27 : Man United vs Crystal Palace.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="369601" start="20261118133000 +0000" stop="20261118140000 +0000">
-    <title lang="zh">This Is Paris 2026/27</title>
-    <desc>This Is Paris 2026/27 : Episode Number 12.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="369601" start="20261118140000 +0000" stop="20261118150000 +0000">
-    <title lang="zh">Women's Super League Highlights 2026/27</title>
-    <desc>Women's Super League Highlights 2026/27 : Matchday 10.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="369601" start="20261118150000 +0000" stop="20261118171500 +0000">
-    <title lang="zh">Tour De France Criterium Highlights</title>
-    <desc>Tour de France Criterium Highlights 2026 : Singapore.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="369601" start="20261118171500 +0000" stop="20261118184500 +0000">
-    <title lang="zh">Premier Padel</title>
-    <desc>Premier Padel 2026 : London P1 Day 2 Match 5.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="369601" start="20261118184500 +0000" stop="20261118200000 +0000">
-    <title lang="zh">Premier Padel</title>
-    <desc>Premier Padel 2026 : London P1 Day 2 Match 6.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="369601" start="20261118200000 +0000" stop="20261118213000 +0000">
-    <title lang="zh">Premier Padel</title>
-    <desc>Premier Padel 2026 : London P1 Day 3 Match 1.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="369601" start="20261118213000 +0000" stop="20261118230000 +0000">
-    <title lang="zh">Premier Padel</title>
-    <desc>Premier Padel 2026 : London P1 Day 3 Match 2.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="369601" start="20261118230000 +0000" stop="20261118232500 +0000">
-    <title lang="zh">HSBC SVNS World Championships : Australia Vs USA - Cup Final, Valladolid - Women</title>
-    <desc>HSBC SVNS World Championships 2026 : Australia vs USA - Cup Final, Valladolid - Women.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="369601" start="20261118232500 +0000" stop="20261118235500 +0000">
-    <title lang="zh">HSBC SVNS World Championships : Australia Vs South Africa - Cup Final, Valladolid - Men</title>
-    <desc>HSBC SVNS World Championships 2026 : Australia vs South Africa - Cup Final, Valladolid - Men.</desc>
-    <date>2026-11-18</date>
-  </programme>
-  <programme channel="369601" start="20261118235500 +0000" stop="20261119000000 +0000">
-    <title lang="zh">Women's Super League : Aston Villa Vs Birmingham</title>
-    <desc>Women's Super League 2026/27 : Aston Villa vs Birmingham.</desc>
-    <date>2026-11-18</date>
-  </programme>
   <programme channel="369601" start="20261119014500 +0000" stop="20261119033500 +0000">
     <title lang="zh">Women's Super League : Arsenal Vs London City Lionesses</title>
     <desc>Women's Super League 2026/27 : Arsenal vs London City Lionesses.</desc>
@@ -12088,6 +11968,101 @@
     <title lang="zh">Premier Padel</title>
     <desc>Premier Padel 2026 : London P1 Day 3 Match 6.</desc>
     <date>2026-11-19</date>
+  </programme>
+  <programme channel="369601" start="20261120011500 +0000" stop="20261120024500 +0000">
+    <title lang="zh">Premier Padel</title>
+    <desc>Premier Padel 2026 : Germany P2 Day 6 Final - Women.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120024500 +0000" stop="20261120043500 +0000">
+    <title lang="zh">Women's Super League : Brighton Vs Liverpool</title>
+    <desc>Women's Super League 2026/27 : Brighton vs Liverpool.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120043500 +0000" stop="20261120062500 +0000">
+    <title lang="zh">TotalEnergies Africa Cup of Nations Qualifiers : Tunisia Vs Libya</title>
+    <desc>TotalEnergies Africa Cup of Nations Qualifiers 2027 : Tunisia vs Libya.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120062500 +0000" stop="20261120081500 +0000">
+    <title lang="zh">Women's Super League : Man United Vs Crystal Palace</title>
+    <desc>Women's Super League 2026/27 : Man United vs Crystal Palace.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120081500 +0000" stop="20261120091500 +0000">
+    <title lang="zh">Women's Super League Highlights 2026/27</title>
+    <desc>Women's Super League Highlights 2026/27 : Matchday 10.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120091500 +0000" stop="20261120101500 +0000">
+    <title lang="zh">(L) Ferrari Challenge Europe Race</title>
+    <desc>LIVE: Ferrari Challenge Europe Race 2026 : Coppa Shell Race 2, Barcelona.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120101500 +0000" stop="20261120114500 +0000">
+    <title lang="zh">Premier Padel</title>
+    <desc>Premier Padel 2026 : Dubai P1 Day 6 Final - Women.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120114500 +0000" stop="20261120124500 +0000">
+    <title lang="zh">(L) Ferrari Challenge Europe Race</title>
+    <desc>LIVE: Ferrari Challenge Europe Race 2026 : Trofeo Pirelli Race 2, Barcelona.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120124500 +0000" stop="20261120131500 +0000">
+    <title lang="zh">Premier Padel Highlights</title>
+    <desc>Premier Padel Highlights 2026 : Kuwait Major.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120131500 +0000" stop="20261120141500 +0000">
+    <title lang="zh">Tour De France Criterium Highlights</title>
+    <desc>Tour de France Criterium Highlights 2026 : Singapore.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120141500 +0000" stop="20261120151500 +0000">
+    <title lang="zh">(L) Ferrari Challenge North America</title>
+    <desc>LIVE: Ferrari Challenge North America 2026 : North America Race 2, Barcelona.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120151500 +0000" stop="20261120153000 +0000">
+    <title lang="zh">Roland Garros Match Highlights</title>
+    <desc>Roland Garros Match Highlights : 2025 Men's Singles Final Sinner v Alcaraz.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120153000 +0000" stop="20261120180000 +0000">
+    <title lang="zh">SailGP Highlights</title>
+    <desc>SailGP Highlights 2026 : Geneva, Switzerland.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120180000 +0000" stop="20261120193000 +0000">
+    <title lang="zh">Premier Padel</title>
+    <desc>Premier Padel 2026 : London P1 Day 4 QF Match 2.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120193000 +0000" stop="20261120204000 +0000">
+    <title lang="zh">Premier Padel</title>
+    <desc>Premier Padel 2026 : London P1 Day 4 QF Match 3.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120204000 +0000" stop="20261120205000 +0000">
+    <title lang="zh">Premier Padel Match Highlights</title>
+    <desc>Premier Padel Match Highlights 2026 : Rotterdam P2 Women.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120205000 +0000" stop="20261120222000 +0000">
+    <title lang="zh">Premier Padel</title>
+    <desc>Premier Padel 2026 : London P1 Day 4 QF Match 4.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120222000 +0000" stop="20261120233000 +0000">
+    <title lang="zh">Premier Padel</title>
+    <desc>Premier Padel 2026 : London P1 Day 4 QF Match 5.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369601" start="20261120233000 +0000" stop="20261121000000 +0000">
+    <title lang="zh">Premier Padel</title>
+    <desc>Premier Padel 2026 : London P1 Day 4 QF Match 6.</desc>
+    <date>2026-11-20</date>
   </programme>
 
   <channel id="464889">
