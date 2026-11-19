@@ -45,6 +45,18 @@ urls = [
     "https://epg.pw/api/epg.xml?channel_id=449590",
     "https://epg.pw/api/epg.xml?channel_id=449589",
     "https://epg.pw/api/epg.xml?channel_id=452290",
+    "https://epg.pw/api/epg.xml?channel_id=12069",
+    "https://epg.pw/api/epg.xml?channel_id=465039",
+    "https://epg.pw/api/epg.xml?channel_id=465372",
+    "https://epg.pw/api/epg.xml?channel_id=538884",
+    "https://epg.pw/api/epg.xml?channel_id=412959",
+    "https://epg.pw/api/epg.xml?channel_id=7673",
+    "https://epg.pw/api/epg.xml?channel_id=6553",
+    "https://epg.pw/api/epg.xml?channel_id=6254",
+    "https://epg.pw/api/epg.xml?channel_id=465198",
+    "https://epg.pw/api/epg.xml?channel_id=465373",
+    "https://epg.pw/api/epg.xml?channel_id=465214",
+    "https://epg.pw/api/epg.xml?channel_id=464991",
     "https://epg.pw/api/epg.xml?channel_id=464889"
 ]
 
