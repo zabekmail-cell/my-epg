@@ -58,6 +58,7 @@ urls = [
     "https://epg.pw/api/epg.xml?channel_id=465214",
     "https://epg.pw/api/epg.xml?channel_id=464991",
     "https://epg.pw/api/epg.xml?channel_id=454969",
+    "https://epg.pw/api/epg.xml?channel_id=369601",
     "https://epg.pw/api/epg.xml?channel_id=464889"
 ]
 
